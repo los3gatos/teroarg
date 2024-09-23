@@ -1,0 +1,225 @@
+#EXTM3U
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="prueba stream", el ocho tv 2
+https://tvradiozap.eu/tools/dm.m3u8.php/x8z8w7c.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 3
+http://190.11.130.46/mnp/espnpremium/output.mpd
+
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 4
+http://190.11.130.46/mnp/tntsports/output.mpd
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="youtube", ythls-v3.onrender
+https://ythls-v3.onrender.com/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="youtube", ythls.armelin
+https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="youtube", ythls.kekikakademi.org
+https://ythls.kekikakademi.org/youtube/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="LATINO TV", A24
+http://190.11.130.46/mnp/a24/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="LATINO TV", A&E
+http://190.11.130.46/mnp/ae/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16496_dark_360w_270h.png" group-title="LATINO TV", Adult Swim
+http://190.11.130.46/mnp/trutv/output.mpd
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="LATINO TV", America
+http://190.11.130.46/mnp/america/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="LATINO TV", AMC
+http://190.11.130.46/mnp/amc/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72534_dark_360w_270h.png" group-title="LATINO TV", AXN
+http://190.11.130.46/mnp/axn/output.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/800px-Babytvv.png" group-title="LATINO TV", Baby TV 
+http://190.11.130.46/mnp/babytv/output.mpd
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="LATINO TV", C5N
+http://190.11.130.46/mnp/c5n/output.mpd
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="LATINO TV", Canal 26
+http://190.11.130.46/mnp/canal26/output.mpd
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/Y333Xbq/cartoon-network.png" group-title="LATINO TV", CARTOON NETWORK HD
+http://190.11.130.46/mnp/cartoon/output.mpd
+
+#EXTINF:-1 tvg-id="ar#boomerang-cartoon" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Cartoonito.png" audio-track="spa" group-title="LATINO TV", Cartoonito
+http://190.11.130.46/mnp/boomerang/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="LATINO TV", Cinecanal
+http://190.11.130.46/mnp/cinecanal/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="LATINO TV", Cinemax
+http://190.11.130.46/mnp/cinemax/output.mpd
+
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Spanish" group-title="LATINO TV", CNN en Español
+http://190.11.130.46/mnp/cnn/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100848_dark_360w_270h.png" group-title="LATINO TV", Comedy Central
+http://190.11.130.46/mnp/comedy/output.mpd
+
+#EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="LATINO TV", CONSTRUIR TV
+http://190.11.130.46/mnp/construiriptv/output.mpd
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" group-title="LATINO TV", Cronica HD
+http://190.11.130.46/mnp/cronica/output.mpd
+
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title="LATINO TV", DEPORTV
+http://190.11.130.46/mnp/dxtv/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="LATINO TV", Discovery Channel
+http://190.11.130.46/mnp/discovery/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="LATINO TV", Discovery Science
+http://190.11.130.46/mnp/dsc_sci/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="LATINO TV", Discovery Home & Health
+http://190.11.130.46/mnp/disc_hh/output.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTurbo.png" audio-track="spa" group-title="LATINO TV", Discovery Turbo
+http://190.11.130.46/mnp/dsc_turbo/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73822_dark_360w_270h.png" group-title="LATINO TV", Discovery TLC 
+http://190.11.130.46/mnp/dsc_tlc/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png" group-title="LATINO TV", Discovery HGTV 
+http://190.11.130.46/mnp/dsc_hgtv/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="LATINO TV", ESPN HD
+http://190.11.130.46/mnp/espn/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LzVBL3t/espn-2.png" group-title="LATINO TV", ESPN 2 HD
+http://190.11.130.46/mnp/espn2/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P6PNRg0/espn-3.png" group-title="LATINO TV", ESPN 3 HD
+http://190.11.130.46/mnp/espn3/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="LATINO TV", ESPN 4
+http://190.11.130.46/mnp/espn_extra/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" group-title="LATINO TV", Film & Arts
+http://190.11.130.46/mnp/filmsarts/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61704_dark_360w_270h.png" group-title="LATINO TV", FOX Sports 
+http://190.11.130.46/mnp/fox_sport/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71328_dark_360w_270h.png" group-title="LATINO TV", FOX Sports 2
+http://190.11.130.46/mnp/fox_sport2/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105006_dark_360w_270h.png" group-title="LATINO TV", FOX Sports 3
+http://190.11.130.46/mnp/fox_sport3/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" group-title="LATINO TV", FX
+http://190.11.130.46/mnp/fx/output.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png" group-title="LATINO TV", Garage TV
+http://190.11.130.46/mnp/garage/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61033_dark_360w_270h.png" group-title="LATINO TV", Golf Channel
+http://190.11.130.46/mnp/golf/output.mpd
+
+
+#EXTINF:-1 tvg-id="ar#hbo" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO.png" audio-track="spa" group-title="LATINO TV", HBO
+http://190.11.130.46/mnp/hbo/output.mpd
+
+#EXTINF:-1 tvg-id="ar#hbo-2-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO2.png" audio-track="spa" group-title="LATINO TV", HBO 2
+http://190.11.130.46/mnp/hbo2/output.mpd
+
+#EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" audio-track="spa" group-title="LATINO TV", HBO Plus
+http://190.11.130.46/mnp/hboplus/output.mpd
+
+#EXTINF:-1 tvg-id="ar#hbo-family-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png" audio-track="spa" group-title="LATINO TV", HBO Family
+http://190.11.130.46/mnp/hbofam/output.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/HBO%20Mundi.png"group-title="LATINO TV", HBO Mundi
+http://190.11.130.46/mnp/hbomund/output.mpd
+
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="LATINO TV", HBO Pop
+http://190.11.130.46/mnp/hbopop/output.mpd
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/77tiTKhe5p80XL5mgv2GX4/17c2b387b7a33cb13dbd5abbec8fe5ba/Premium_07_HBOSignature.png?fm=webp&q=80" group-title="LATINO TV" , HBO Signature HD
+http://190.11.130.46/mnp/hbosig/output.mpd
+
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" audio-track="spa" group-title="LATINO TV", HBO Xtreme
+http://190.11.130.46/mnp/hboxtr/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="LATINO TV", History
+http://190.11.130.46/mnp/history/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89197_dark_360w_270h.png" group-title="LATINO TV", Lifetime
+http://190.11.130.46/mnp/lifetime/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="LATINO TV", MTV
+http://190.11.130.46/mnp/mtv/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="LATINO TV", National Geographic
+http://190.11.130.46/mnp/natgeohd/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106215_dark_360w_270h.png" group-title="LATINO TV", Paramount Network
+http://190.11.130.46/mnp/paramount/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png" group-title="LATINO TV", Sony Channel
+http://190.11.130.46/mnp/sony/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16499_dark_360w_270h.png" group-title="LATINO TV", Space
+http://190.11.130.46/mnp/space/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="LATINO TV", Star Channel
+http://190.11.130.46/mnp/foxhd/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19246_dark_360w_270h.png" group-title="LATINO TV", TCM
+http://190.11.130.46/mnp/tcm/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="LATINO TV", TNT
+http://190.11.130.46/mnp/tnt/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="LATINO TV", TNT Series
+http://190.11.130.46/mnp/tntseries/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="LATINO TV", Tooncast
+http://190.11.130.46/mnp/tooncast/output.mpd
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="LATINO TV", TyC Sports
+http://190.11.130.46/mnp/6ym1cI5NULP0gJHuXiaWh5ZRqJO0ZR4T/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" group-title="LATINO TV", Universal Channel
+http://190.11.130.46/mnp/universal/output.mpd
+
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11207/s11207_ll_h15_af.png" group-title="LATINO TV", USA
+http://190.11.130.46/mnp/syfy/output.mpd
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="LATINO TV", Warner Channel
+http://190.11.130.46/mnp/warner/output.mpd
+
+
+
