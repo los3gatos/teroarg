@@ -46,180 +46,146 @@ https://ythls.kekikakademi.org/youtube/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="LATINO TV", A24
 http://190.11.130.46/mnp/a24/output.mpd
 
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="LATINO TV", A&E
-http://190.11.130.46/mnp/ae/output.mpd
 
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16496_dark_360w_270h.png" group-title="LATINO TV", Adult Swim
-http://190.11.130.46/mnp/trutv/output.mpd
-
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="LATINO TV", America
-http://190.11.130.46/mnp/america/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="LATINO TV", AMC
-http://190.11.130.46/mnp/amc/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72534_dark_360w_270h.png" group-title="LATINO TV", AXN
-http://190.11.130.46/mnp/axn/output.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/800px-Babytvv.png" group-title="LATINO TV", Baby TV 
-http://190.11.130.46/mnp/babytv/output.mpd
-
-#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="LATINO TV", C5N
-http://190.11.130.46/mnp/c5n/output.mpd
-
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="LATINO TV", Canal 26
-http://190.11.130.46/mnp/canal26/output.mpd
-
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/Y333Xbq/cartoon-network.png" group-title="LATINO TV", CARTOON NETWORK HD
-http://190.11.130.46/mnp/cartoon/output.mpd
-
-#EXTINF:-1 tvg-id="ar#boomerang-cartoon" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Cartoonito.png" audio-track="spa" group-title="LATINO TV", Cartoonito
-http://190.11.130.46/mnp/boomerang/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="LATINO TV", Cinecanal
-http://190.11.130.46/mnp/cinecanal/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="LATINO TV", Cinemax
-http://190.11.130.46/mnp/cinemax/output.mpd
-
-#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Spanish" group-title="LATINO TV", CNN en Español
-http://190.11.130.46/mnp/cnn/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100848_dark_360w_270h.png" group-title="LATINO TV", Comedy Central
-http://190.11.130.46/mnp/comedy/output.mpd
-
-#EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="LATINO TV", CONSTRUIR TV
-http://190.11.130.46/mnp/construiriptv/output.mpd
-
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" group-title="LATINO TV", Cronica HD
-http://190.11.130.46/mnp/cronica/output.mpd
-
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title="LATINO TV", DEPORTV
-http://190.11.130.46/mnp/dxtv/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="LATINO TV", Discovery Channel
-http://190.11.130.46/mnp/discovery/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="LATINO TV", Discovery Science
-http://190.11.130.46/mnp/dsc_sci/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="LATINO TV", Discovery Home & Health
-http://190.11.130.46/mnp/disc_hh/output.mpd
-
-#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTurbo.png" audio-track="spa" group-title="LATINO TV", Discovery Turbo
-http://190.11.130.46/mnp/dsc_turbo/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73822_dark_360w_270h.png" group-title="LATINO TV", Discovery TLC 
-http://190.11.130.46/mnp/dsc_tlc/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png" group-title="LATINO TV", Discovery HGTV 
-http://190.11.130.46/mnp/dsc_hgtv/output.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="LATINO TV", ESPN HD
-http://190.11.130.46/mnp/espn/output.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LzVBL3t/espn-2.png" group-title="LATINO TV", ESPN 2 HD
-http://190.11.130.46/mnp/espn2/output.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P6PNRg0/espn-3.png" group-title="LATINO TV", ESPN 3 HD
-http://190.11.130.46/mnp/espn3/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="LATINO TV", ESPN 4
-http://190.11.130.46/mnp/espn_extra/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" group-title="LATINO TV", Film & Arts
-http://190.11.130.46/mnp/filmsarts/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61704_dark_360w_270h.png" group-title="LATINO TV", FOX Sports 
-http://190.11.130.46/mnp/fox_sport/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71328_dark_360w_270h.png" group-title="LATINO TV", FOX Sports 2
-http://190.11.130.46/mnp/fox_sport2/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105006_dark_360w_270h.png" group-title="LATINO TV", FOX Sports 3
-http://190.11.130.46/mnp/fox_sport3/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" group-title="LATINO TV", FX
-http://190.11.130.46/mnp/fx/output.mpd
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png" group-title="LATINO TV", Garage TV
-http://190.11.130.46/mnp/garage/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61033_dark_360w_270h.png" group-title="LATINO TV", Golf Channel
-http://190.11.130.46/mnp/golf/output.mpd
-
-
-#EXTINF:-1 tvg-id="ar#hbo" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO.png" audio-track="spa" group-title="LATINO TV", HBO
-http://190.11.130.46/mnp/hbo/output.mpd
-
-#EXTINF:-1 tvg-id="ar#hbo-2-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO2.png" audio-track="spa" group-title="LATINO TV", HBO 2
-http://190.11.130.46/mnp/hbo2/output.mpd
-
-#EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" audio-track="spa" group-title="LATINO TV", HBO Plus
-http://190.11.130.46/mnp/hboplus/output.mpd
-
-#EXTINF:-1 tvg-id="ar#hbo-family-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png" audio-track="spa" group-title="LATINO TV", HBO Family
-http://190.11.130.46/mnp/hbofam/output.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/HBO%20Mundi.png"group-title="LATINO TV", HBO Mundi
-http://190.11.130.46/mnp/hbomund/output.mpd
-
-#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="LATINO TV", HBO Pop
-http://190.11.130.46/mnp/hbopop/output.mpd
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/77tiTKhe5p80XL5mgv2GX4/17c2b387b7a33cb13dbd5abbec8fe5ba/Premium_07_HBOSignature.png?fm=webp&q=80" group-title="LATINO TV" , HBO Signature HD
-http://190.11.130.46/mnp/hbosig/output.mpd
-
-#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" audio-track="spa" group-title="LATINO TV", HBO Xtreme
-http://190.11.130.46/mnp/hboxtr/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="LATINO TV", History
-http://190.11.130.46/mnp/history/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89197_dark_360w_270h.png" group-title="LATINO TV", Lifetime
-http://190.11.130.46/mnp/lifetime/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="LATINO TV", MTV
-http://190.11.130.46/mnp/mtv/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="LATINO TV", National Geographic
-http://190.11.130.46/mnp/natgeohd/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106215_dark_360w_270h.png" group-title="LATINO TV", Paramount Network
-http://190.11.130.46/mnp/paramount/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png" group-title="LATINO TV", Sony Channel
-http://190.11.130.46/mnp/sony/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16499_dark_360w_270h.png" group-title="LATINO TV", Space
-http://190.11.130.46/mnp/space/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="LATINO TV", Star Channel
-http://190.11.130.46/mnp/foxhd/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19246_dark_360w_270h.png" group-title="LATINO TV", TCM
-http://190.11.130.46/mnp/tcm/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="LATINO TV", TNT
-http://190.11.130.46/mnp/tnt/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="LATINO TV", TNT Series
-http://190.11.130.46/mnp/tntseries/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="LATINO TV", Tooncast
-http://190.11.130.46/mnp/tooncast/output.mpd
-
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="LATINO TV", TyC Sports
-http://190.11.130.46/mnp/6ym1cI5NULP0gJHuXiaWh5ZRqJO0ZR4T/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" group-title="LATINO TV", Universal Channel
-http://190.11.130.46/mnp/universal/output.mpd
-
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11207/s11207_ll_h15_af.png" group-title="LATINO TV", USA
-http://190.11.130.46/mnp/syfy/output.mpd
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="LATINO TV", Warner Channel
-http://190.11.130.46/mnp/warner/output.mpd
-
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/08/XTRA_2.png",DEP | BEIN Sp0rts Xtra Ñ HD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1388
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/08/XTRA_2.png",DEP | BEIN SP0RTS Ñ HD 2
+http://disfruta.net/richardactiva247/gwqUJUjvgE/7449
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/Bally_Sports_South.png",DEP | BALLY SPORTS SOUTH [HD]
+http://disfruta.net/richardactiva247/gwqUJUjvgE/18714
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/Bally_Sports_Southeast.png",DEP | BALLY SPORTS SOUTHEAST [HD]
+http://disfruta.net/richardactiva247/gwqUJUjvgE/18715
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/claro-sports.png",DEP | Claro Sports FHD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1407
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/claro-sports.png",DEP | Claro Sports FHD (HN)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1408
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/DAZN_F1_logo.png",DEP | DAZN Formula 1 FHD (ES)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1694
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/dazn-laliga-1-color.png",DEP | DAZN LALIGA FHD (ES)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1680
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/07/file-1-1.png",DEP | DSPORTS 2 HD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1205
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png",DEP | DSPORTS FHD (CO)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1382
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png",DEP | DSPORTS FHD (CO)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1059
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png",DEP | DSPORTS FHD (PE)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1383
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png",DEP | DSPORTS HD (EC)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1194
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/07/cro1a9IIVYYF0rH8hOn08-transformed.png",DEP | DSPORTS PLUS HD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1195
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/655_EC.png",DEP | EL CANAL DEL FUTBOL EC [HD]
+http://disfruta.net/richardactiva247/gwqUJUjvgE/7617
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png",DEP | ESPN HD (MX)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1080
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png",DEP | ESPN HD (CO)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1081
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn.png",DEP | ESPN HD USA
+http://disfruta.net/richardactiva247/gwqUJUjvgE/3859
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn2.png",DEP | ESPN 2 HD (MX)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1082
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn2.png",DEP | ESPN 2 HD (AR)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1084
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn2.png",DEP | ESPN 2 HD (CO)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/5056
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn3.png",DEP | ESPN 3 HD (MX)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1086
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn3.png",DEP | ESPN 3 HD (CO)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1087
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn4.png",DEP | ESPN 4 HD (CO)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/11909
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn4.png",DEP | ESPN 4 HD (MX)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1090
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn5.png",DEP | ESPN 5 HD (CO)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/45595
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn6.png",DEP | ESPN 6 HD (CO)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1097
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/espn7.png",DEP | ESPN 7 HD (CO)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/45596
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/ESPN_Premium.png",DEP | ESPN Premium HD (AR)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1098
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/ESPN_Premium.png",DEP | ESPN Premium HD (CL)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1092
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/fox_deportes.png",DEP | FOX Deportes HD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1384
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/fox_sporta_ar.png",DEP | Fox Sports HD (AR)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1093
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/fox_sports_2_arg.png",DEP | Fox Sports 2 HD (AR)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1095
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/fox_sports3_arg.png",DEP | Fox Sports 3 HD (AR)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1096
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/foxsportmx-removebg-preview.png",DEP | Fox Sports HD (MX)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1073
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/fox-sports-2.png",DEP | Fox Sports 2 HD (MX)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1076
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/fox-sports-3.png",DEP | Fox Sports 3 HD (MX)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1077
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/Fox_Sports_Premium_arg.png",DEP | Fox Sports Premium HD (MX)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/14363
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/goltv.png",DEP | GOLTV HD SUR
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1419
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/goltv.png",DEP | GOLTV Español HD (US)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1422
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/Liga1Max.webp",DEP | LIGA1MAX HD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/18429
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/Golf_por_Movistar_Plus.png",DEP | M. GOLF HD (ES)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1695
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/Golf_por_Movistar_Plus.png",DEP | MOVISTAR GOLF HD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1904
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/laligabar.png",DEP | La Liga BAR FHD (ES)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1679
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/movistarlaliga-removebg-preview.png",DEP | M La Liga FHD (ES)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1682
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/Deportes_por_Movistar_Plus.png",DEP | M. DEPORTES FHD (ES)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1683
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/lcamepon-removebg-preview.png",DEP | M. Liga De Campeones FHD (ES)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1691
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/movistarlaliga-removebg-preview.png",DEP | Movistar LaLiga (ES)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1698
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/lcamepon-removebg-preview.png",DEP | Movistar Liga Campeones HD (ES)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1701
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/NBC_Univers.png",DEP | NBC UNIVERSO HD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1196
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/Realmadrid_Television_Logo.png",DEP | Real Madrid Tv (ES)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1702
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/Sky_Sports_UK_.png",DEP | SKY SPORTS LA LIGA HD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/4526
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/Sky_Sport_F1_.png",DEP |Sky Sports Formula 1 [HD]
+http://disfruta.net/richardactiva247/gwqUJUjvgE/21042
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/Tve_teledeporte.png",DEP | TELEDEPORTE (ES)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1705
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/Tve_teledeporte.png",DEP | TELEDEPORTE FHD (ES)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/5911
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/TNT_Sports_.png",DEP | TNT SPORTS HD (AR)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/2795
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/TNT_Sports_.png",DEP | TNT SPORTS (CL)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1411
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/TNTSportsPremium2024.png",DEP | TNT SPORTS PREMIUM HD (CL)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1414
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/TNTSportsPremium2024.png",DEP | TNT SPORTS PREMIUM (CL)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1412
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/TUDNlogo.png",DEP | TUDN FHD (US)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1400
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/TUDNlogo.png",DEP | TUDN HD (US)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1399
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/TUDNlogo.png",DEP | TUDN (US)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1219
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/tvcdeportes.png",DEP | TVC Deportes (MX)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1175
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/TyCSp.png",DEP | TYC Sports HD (AR)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/2797
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/VTV_Logo_2003.png",DEP | VTV HD (UY)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1217
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/Win_Sports.png",DEP | WIN SPORTS FHD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1416
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/Win_Sports.png",DEP | WIN SPORTS HD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1415
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/Winfutbol.png",DEP | WIN SPORTS FUTBOL HD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1418
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/Winfutbol.png",DEP | WIN SPORTS FUTBOL HD2
+http://disfruta.net/richardactiva247/gwqUJUjvgE/49790
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/Winfutbol.png",DEP | WIN SPORTS FUTBOL SD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/20018
 
