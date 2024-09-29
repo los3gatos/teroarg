@@ -66,35 +66,37 @@ http://181.13.173.86:8000/play/a078/index.m3u8
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 8
 http://181.13.173.86:8000/play/a02u/index.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 9
-http://home-playtv.com:8080/miralatin2243/JJKTU/158506
+http://190.123.90.146:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 10
-http://162.246.20.30/mastervip/lista.php?id=6575
+http://190.123.90.146:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 11
-http://disfruta.net:80/natalysanchez/yOLAgZEWKE/1382
+http://216.244.200.34:8000/play/a05h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 12
-http://disfruta.net:80/natalysanchez/yOLAgZEWKE/1098
+http://216.244.200.34:8000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 13
-http://disfruta.net:80/natalysanchez/yOLAgZEWKE/2795
+http://181.209.95.29:8000/play/a078/index.m3u8
 
 
 
 
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/07/file-1-1.png" group-title="Tango Sports", DSPORTS 2 HD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1205
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS FHD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1382
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS FHD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1059
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS FHD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1383
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS HD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1194
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/07/cro1a9IIVYYF0rH8hOn08-transformed.png" group-title="Tango Sports", DSPORTS PLUS HD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1195
 
 
 
@@ -864,6 +866,9 @@ https://tv.streamcasthd.com:3536/live/siontvlive.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/enlace.png" group-title="AMBA", ENLACE
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1620_Monte_Grande.png" group-title="AMBA", MONTE GRANDE TELEVISION
+https://fl1002.bozztv.com/ssh101/montegrandetv/tracks-v1a1/mono.m3u8?WebM3UCL
+
 #EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2023/03/Marca-UNLP-TV-sin-fondo.png" group-title="AMBA", TVU LA PLATA 32.1
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8  
 
@@ -1545,6 +1550,9 @@ https://tv.streamcasthd.com:3357/live/almagauchatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://radiocerofm.com/logo-ahora-cero.png" group-title="ENTRE RIOS", AHORA CERO RADIO
 https://stream.arcast.live/eldia/ngrp:eldia_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/flownoticias.com.ar/wp-content/uploads/2023/12/cropped-cropped-FLOW_png-1.png?fit=1656%2C1353&ssl=1" group-title="ENTRE RIOS", FLOW NOTICIAS
+https://fl1002.bozztv.com/ssh101/flownoticias/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/lqGIeWkCT5X_fBPCPa8IVr0EBzXvWFkC3C_3IJPXI0iEjj_PJSQ4XbkhM2lGGZ3VZcWiFYe_=s176-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", CANAL 4 NOGOYA
 https://stmvideo2.livecastv.com/canal4nogoya/canal4nogoya/playlist.m3u8
 
@@ -1740,6 +1748,9 @@ https://tvd.uncu.edu.ar/memfs/8f90310c-f1d6-46ff-9fa1-77f07ea80005.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.otrasvocestv.com.ar/wp-content/uploads/2021/01/wprs.png" group-title="MENDOZA", OTRAS VOCES TV
 https://vivo.solumedia.com:19360/otrasvoces/otrasvoces.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1621_Latina_TV_Mendoza.png" group-title="MENDOZA", LATINA TV MENDOZA
+https://videostream.shockmedia.com.ar:19360/latinatv/latinatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hectorbonarrico.com/wp-content/uploads/2020/06/gg-1.png" group-title="MENDOZA", KINGDOM TV HD  19.1  MENDOZA 
 https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chunks.m3u8
