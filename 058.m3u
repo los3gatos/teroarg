@@ -47,3 +47,60 @@ https://ythls.kekikakademi.org/youtube/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 http://190.11.130.46/mnp/a24/output.mpd
 
 
+
+
+#EXTINF:-1 channel-id="pluto-60492fdd9989d30007ccd30a" tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" tvg-chno="4560" group-title="DEPORTIVOS" , beIN SPORTS XTRA en español
+https://stitcher.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title="DEPORTIVOS", DEPORTV
+http://190.11.130.46/mnp/dxtv/output.mpd
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTIVOS", TyC SPORTS Internacional
+http://186.148.195.206:8000/play/a04u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/k7sgh3gk0a-6p2spjp7v9vAuIO_HUPTOd6xx3He1FFWnP9YwFXByM7_SfTDQisTFHXbfdgPh=s160-c-k-c0x00ffffff-no-rj" group-title="DEPORTIVOS", CLARO SPORTS
+http://streamsy.online:2999/korrigan17/25AUFBdqOi/1700
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/colorLogoPNG.png" group-title="DEPORTIVOS", Chilevision Deportes
+https://stitcher.pluto.tv/stitch/hls/channel/638df6f8b63cf100075ccfa1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTIVOS",Fox Sports
+http://streamsy.online:2999/korrigan17/25AUFBdqOi/92
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTIVOS",Fox Sports 2
+http://streamsy.online:2999/korrigan17/25AUFBdqOi/93
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTIVOS",Fox Sports 3
+http://streamsy.online:2999/korrigan17/25AUFBdqOi/100
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTIVOS",Fox Sports Premium
+http://streamsy.online:2999/korrigan17/25AUFBdqOi/992
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="DEPORTIVOS", ESPN
+http://181.78.71.5:4890/play/a03l/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTIVOS", ESPN 2
+http://181.78.71.5:4890/play/a03k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTIVOS", ESPN 3
+http://38.43.151.206:8000/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="DEPORTIVOS", ESPN 4
+http://181.209.95.29:8000/play/a076/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title="DEPORTIVOS", ESPN 5 
+http://181.78.71.5:4890/play/a03z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" group-title="DEPORTIVOS", ESPN 6
+http://181.78.71.5:4890/play/a03q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="DEPORTIVOS", ESPN 7
+http://181.78.71.5:4890/play/a03p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/100px-Win_Sports%2B_logo.svg.png" group-title="DEPORTIVOS", Win Sports+
+http://181.78.71.5:4890/play/a02x/index.m3u8
+
+#EXTINF:-1 tvg-logo="hhttps://play-lh.googleusercontent.com/1ontCVxT0_aGV1TPfFk593XVaaLb6rft72fNllPsYlpCzISKUZesnKQksOxTtkpTslA=w240-h480-rw" group-title="DEPORTIVOS", Zapping tv
+http://home-playtv.com:8080/miralatin2243/JJKTU/158511
+
+
