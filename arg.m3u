@@ -664,8 +664,6 @@ http://181.78.27.128:8000/play/a034/index.m3u8
 http://181.78.27.128:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", TCM
 http://181.78.27.128:8000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", TEC TV
-http://181.78.27.128:8000/play/a04s/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", TLC
 http://181.78.27.128:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", TNT
@@ -680,8 +678,6 @@ http://181.78.27.128:8000/play/a05o/index.m3u8
 http://181.78.27.128:8000/play/a03z/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Telenovelas
 http://181.176.153.106:8090/play/a0ox/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Tnt Sport
-http://181.78.27.128:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Trece
 http://181.78.27.128:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Tyc Sport
