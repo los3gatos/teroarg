@@ -512,8 +512,6 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 
 #EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", AE Mundo
 http://181.78.27.128:8000/play/a03s/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", ASPEN RADIO
-http://181.78.27.128:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", ATV
 http://181.78.27.128:8000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", AXN
@@ -530,6 +528,8 @@ http://181.78.27.128:8000/play/a048/index.m3u8
 http://181.78.27.128:8000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", BabyFirst
 http://181.78.27.128:8000/play/a05l/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", C5N
+http://181.78.27.128:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", C9n
 http://181.78.27.128:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", CANAL E
@@ -654,8 +654,6 @@ http://181.78.27.128:8000/play/a05t/index.m3u8
 http://181.78.27.128:8000/play/a01o/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Sbt Brasil
 http://181.78.27.128:8000/play/a067/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Sextreme
-http://181.78.27.128:8000/play/a069/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Sin Limites
 http://181.78.27.128:8000/play/a04e/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Sony
@@ -700,8 +698,6 @@ http://181.78.27.128:8000/play/a02f/index.m3u8
 http://181.78.27.128:8000/play/a02g/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Universal Premiere SD
 http://181.78.27.128:8000/play/a02e/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Venus
-http://181.78.27.128:8000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Warner
 http://181.78.27.128:8000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Zona Latina
