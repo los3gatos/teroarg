@@ -505,158 +505,208 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 
 
 
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Limites
-http://38.43.151.206:8000/play/a067/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Latina
-http://38.43.151.206:8000/play/a034/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Movistar Deportes
-http://38.43.151.206:8000/play/a02z/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", America TV
-http://38.43.151.206:8000/play/a033/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Panamericana TV
-http://38.43.151.206:8000/play/a063/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", TV Peru SD
-http://38.43.151.206:8000/play/a066/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Canal N
-http://38.43.151.206:8000/play/a06c/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", ATV
-http://38.43.151.206:8000/play/a064/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Willax
-http://38.43.151.206:8000/play/a05z/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Pasiones HD
-http://38.43.151.206:8000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Las Estrellas HD
-http://38.43.151.206:8000/play/a02m/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Telenovelas
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", AE Mundo
+http://181.78.27.128:8000/play/a03s/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", ASPEN RADIO
+http://181.78.27.128:8000/play/a009/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", ATV
+http://181.78.27.128:8000/play/a04a/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", AXN
+http://181.78.27.128:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Abc Tv
+http://181.78.27.128:8000/play/a05r/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", America TV
+http://181.78.27.128:8000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", America TV PY
+http://181.78.27.128:8000/play/a04f/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", AmericaTV
+http://181.78.27.128:8000/play/a048/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Animal Planet
+http://181.78.27.128:8000/play/a03l/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", BabyFirst
+http://181.78.27.128:8000/play/a05l/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", C9n
+http://181.78.27.128:8000/play/a05s/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", CANAL E
+http://181.78.27.128:8000/play/a04w/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", CN23
+http://181.78.27.128:8000/play/a04r/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", CNN Espanol
+http://181.78.27.128:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", CRONICA TV
+http://181.78.27.128:8000/play/a04k/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Canal AlbNET
+http://181.78.27.128:8000/play/a05p/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Canal Estrellas
+http://181.78.27.128:8000/play/a03w/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Cartoon Network
+http://181.78.27.128:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Cartoonito HD
+http://181.78.27.128:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Cinecanal
+http://181.78.27.128:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Cinemax
+http://181.78.27.128:8000/play/a031/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Deporte Py
+http://181.78.27.128:8000/play/a060/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Deporte Py+
+http://181.78.27.128:8000/play/a061/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Discovery Channel
+http://181.78.27.128:8000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Discovery ID
+http://181.78.27.128:8000/play/a041/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Discovery Kids
+http://181.78.27.128:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Discovery Turbo
+http://181.78.27.128:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Disney Channel
+http://181.78.27.128:8000/play/a03j/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Disney Jr
+http://181.78.27.128:8000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", E Entertainment
+http://181.78.27.128:8000/play/a03n/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", E40
+http://181.78.27.128:8000/play/a065/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", ENCUENTRO HD
+http://181.78.27.128:8000/play/a04t/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", ESPN
+http://181.78.27.128:8000/play/a03q/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", ESPN 2
+http://181.78.27.128:8000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", ESPN 2 Latin
+http://181.78.27.128:8000/play/a03p/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", ESPN 3
+http://181.78.27.128:8000/play/a03f/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", ESPN 4
+http://181.78.27.128:8000/play/a04b/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", El Trece Arg
+http://181.78.27.128:8000/play/a05y/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Enlace
+http://181.78.27.128:8000/play/a05k/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Ewtn
+http://181.78.27.128:8000/play/a066/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", FX
+http://181.78.27.128:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Fox Sport 1
+http://181.78.27.128:8000/play/a062/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Fox Sport 2
+http://181.78.27.128:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Fox Sports 2
+http://181.78.27.128:8000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Fox Sports 3
+http://181.78.27.128:8000/play/a03y/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", France 24
+http://181.78.27.128:8000/play/a042/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Gen_Py
+http://181.78.27.128:8000/play/a05n/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Globo Brasil
+http://181.78.27.128:8000/play/a068/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", HBO
+http://181.78.27.128:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", HBO 2
+http://181.78.27.128:8000/play/a026/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", HBO Family
+http://181.78.27.128:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", HBO Plus
+http://181.78.27.128:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", HBO XTREME SD
+http://181.78.27.128:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", History Channel
+http://181.78.27.128:8000/play/a01h/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", HomeandHealth
+http://181.78.27.128:8000/play/a046/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", IP
+http://181.78.27.128:8000/play/a055/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", LAPACHO TV
+http://181.78.27.128:8000/play/a04o/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", La Tele 
+http://181.78.27.128:8000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Latina
+http://181.78.27.128:8000/play/a047/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", MTV
+http://181.78.27.128:8000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Nat Geo
+http://181.78.27.128:8000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Nick Jr
+http://181.78.27.128:8000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Nickelodeon
+http://181.78.27.128:8000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", PAKA PAKA
+http://181.78.27.128:8000/play/a04x/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Panamericana TV
+http://181.78.27.128:8000/play/a049/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Paraguay Tv
+http://181.78.27.128:8000/play/a05m/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Paravision
+http://181.78.27.128:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", RADIO VENUS
+http://181.78.27.128:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", RCN Novelas
+http://181.78.27.128:8000/play/a040/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", SNT
+http://181.78.27.128:8000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", STAR CHANNEL
+http://181.78.27.128:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Sbt Brasil
+http://181.78.27.128:8000/play/a067/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Sextreme
+http://181.78.27.128:8000/play/a069/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Sin Limites
+http://181.78.27.128:8000/play/a04e/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Sony
+http://181.78.27.128:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Space
+http://181.78.27.128:8000/play/a034/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Studio Universal
+http://181.78.27.128:8000/play/a02c/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", TCM
+http://181.78.27.128:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", TEC TV
+http://181.78.27.128:8000/play/a04s/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", TLC
+http://181.78.27.128:8000/play/a03u/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", TNT
+http://181.78.27.128:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", TNT Novelas
+http://181.78.27.128:8000/play/a044/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Telefe Arg
+http://181.78.27.128:8000/play/a05x/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Telefuturo
+http://181.78.27.128:8000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Telemundo
+http://181.78.27.128:8000/play/a03z/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Telenovelas
 http://181.176.153.106:8090/play/a0ox/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", TNT Novelas
-http://38.43.151.206:8000/play/a05y/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", RCN Novelas
-http://38.43.151.206:8000/play/a05u/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Kanal D Drama HD
-http://38.43.151.206:8000/play/a057/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Telemundo
-http://38.43.151.206:8000/play/a06g/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Discovery Theater HD
-http://38.43.151.206:8000/play/a024/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", History 2 HD
-http://38.43.151.206:8000/play/a02r/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Discovery HD
-http://38.43.151.206:8000/play/a05i/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", History Channel HD
-http://38.43.151.206:8000/play/a05n/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Nat Geo HD
-http://38.43.151.206:8000/play/a051/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Sun Channel HD
-http://38.43.151.206:8000/play/a05m/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", HomeandHealth
-http://38.43.151.206:8000/play/a060/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Discovery World HD
-http://38.43.151.206:8000/play/a052/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", France 24
-http://38.43.151.206:8000/play/a05w/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Animal Planet HD
-http://38.43.151.206:8000/play/a05d/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", MTV HD
-http://38.43.151.206:8000/play/a04x/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", MTV LIVE HD
-http://38.43.151.206:8000/play/a027/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", GolTV
-http://38.43.151.206:8000/play/a032/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Paramount HD
-http://38.43.151.206:8000/play/a059/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Disney HD
-http://38.43.151.206:8000/play/a01n/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Cartoon Network HD
-http://38.43.151.206:8000/play/a058/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Warner Channel HD
-http://38.43.151.206:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", HBO Family HD
-http://38.43.151.206:8000/play/a02s/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Studio Universal HD
-http://38.43.151.206:8000/play/a05a/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Comedy Central HD
-http://38.43.151.206:8000/play/a01y/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Fox Sports 1 HD
-http://38.43.151.206:8000/play/a06h/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", FOX Sports 2 HD
-http://38.43.151.206:8000/play/a028/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Fox Sports 3 HD
-http://38.43.151.206:8000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", ESPN HD
-http://38.43.151.206:8000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", ESPN 2 HD
-http://38.43.151.206:8000/play/a01v/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", ESPN 3 HD
-http://38.43.151.206:8000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", ESPN 4
-http://38.43.151.206:8000/play/a065/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", ESPN EXTRA HD
-http://38.43.151.206:8000/play/a055/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", GOL PERU
-http://38.43.151.206:8000/play/a036/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", L1MAX
-http://38.43.151.206:8000/play/a069/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", D Sport HD
-http://38.43.151.206:8000/play/a04m/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", ESPN 5 
-http://38.43.151.206:8000/play/a06m/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", A&E HD
-http://38.43.151.206:8000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", AMC HD
-http://38.43.151.206:8000/play/a054/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", AXN HD
-http://38.43.151.206:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Canal Claro
-http://38.43.151.206:8000/play/a05x/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Cinecanal HD
-http://38.43.151.206:8000/play/a053/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Cinemax HD
-http://38.43.151.206:8000/play/a01x/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", DHE HD
-http://38.43.151.206:8000/play/a05h/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", ESPN 4HD
-http://38.43.151.206:8000/play/a06k/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", ESPN 5HD
-http://38.43.151.206:8000/play/a06i/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", ESPN 7HD
-http://38.43.151.206:8000/play/a06j/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", ESPN Premium HD
-http://38.43.151.206:8000/play/a06l/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", FX HD
-http://38.43.151.206:8000/play/a02b/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", GLOBAL
-http://38.43.151.206:8000/play/a06d/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Golden HD
-http://38.43.151.206:8000/play/a030/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", HBO 2 HD
-http://38.43.151.206:8000/play/a05c/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", HBO HD
-http://38.43.151.206:8000/play/a056/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", HBO POP HD
-http://38.43.151.206:8000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", HBO XTREME
-http://38.43.151.206:8000/play/a02t/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Kanal D Drama
-http://38.43.151.206:8000/play/a06f/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Lolly Kids
-http://38.43.151.206:8000/play/a06t/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Movistar Plus
-http://38.43.151.206:8000/play/a06b/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", STAR CHANNEL
-http://38.43.151.206:8000/play/a06w/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", STAR CHANNEL HD
-http://38.43.151.206:8000/play/a04z/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Sony HD
-http://38.43.151.206:8000/play/a00j/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Space HD
-http://38.43.151.206:8000/play/a00m/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", TNT HD
-http://38.43.151.206:8000/play/a01o/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", TNT Series HD
-http://38.43.151.206:8000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s" group-title="LATINO TV", Warner Channel
-http://38.43.151.206:8000/play/a06v/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Tnt Sport
+http://181.78.27.128:8000/play/a064/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Trece
+http://181.78.27.128:8000/play/a05w/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Tyc Sport
+http://181.78.27.128:8000/play/a063/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", USA SD
+http://181.78.27.128:8000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Unicanal 
+http://181.78.27.128:8000/play/a05v/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Universal
+http://181.78.27.128:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Universal Cinema SD
+http://181.78.27.128:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Universal Comedy SD
+http://181.78.27.128:8000/play/a02g/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Universal Premiere SD
+http://181.78.27.128:8000/play/a02e/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Venus
+http://181.78.27.128:8000/play/a03t/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Warner
+http://181.78.27.128:8000/play/a03m/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", Zona Latina
+http://181.78.27.128:8000/play/a01m/index.m3u8
+
 
 
 
