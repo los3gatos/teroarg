@@ -207,7 +207,6 @@ http://190.11.130.46/mnp/construiriptv/output.mpd
 #EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="NOTICIAS NACIONALES", IP NOTICIAS
 https://clearnet.cdn.rcs.net.ar/mnp/ip/output.mpd
 
-
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://yt3.googleusercontent.com/qiB2U_CZaAY_4IdZydkjJwMxnGCpr0v-tLoJmKrjG0KeqA3rLdj5hQ73jnOIjq2kmUcPajCvCTA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CANAL 26
 http://45.5.151.151:8000/play/a0e1/index.m3u8
 
