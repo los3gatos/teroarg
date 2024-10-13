@@ -1514,6 +1514,9 @@ https://5f700d5b2c46f.streamlock.net/maria720/maria720/chunklist_w2053024275_DVR
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2vo7XIfCasCBkyOXDppqgH/0d1c4e3fece963dd9a2c3ed2d253cc3c/49_CANAL_Telediario-noticias.png?fm=webp&q=80" group-title="CORDOBA" , Telediario TV
 http://181.13.23.198:8000/play/a0f7/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mEsLJDaWwPRRTuGVIhP52i3H0l-DbvhJquRMj2p9Glvg=s160-c-k-c0x00ffffff-no-rj" group-title="CORDOBA" , Canal 2 Alta Gracia
+http://190.123.90.146:8000/play/a01z/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-294x165-FFFFFF.jpg" group-title="CORDOBA", CIUDAD MAGICA TV
 https://stmv4.voxtvhd.com.br/cdadmagicatv/cdadmagicatv/playlist.m3u8
 
