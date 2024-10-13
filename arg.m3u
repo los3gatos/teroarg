@@ -1483,8 +1483,8 @@ http://streamyes.alsolnet.com/elchubuttv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://universoradio895.com/imagenes/banner.png" group-title="CHUBUT", UNIVERSO 89.5 FM COMODORO RIVADAVIA
 https://videostream.shockmedia.com.ar:19360/universoradio895/universoradio895.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://www.radiorawson.com.ar/img/BANNER.png" group-title="CHUBUT", RADIO RAWSON 105.1
+https://stmv3.voxtvhd.com.br/radiorawson/radiorawson/playlist.m3u8
 
 
 
