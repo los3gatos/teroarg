@@ -1432,13 +1432,13 @@ http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/chunklist_w549334014_
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/iGAbw0EcsH5bVSdEpsBRyix0FVRuxTWA32wR2swu8uwmLK2qhKxuge273Z7SB70TF9EhoedcuA=s176-c-k-c0x00ffffff-no-rj" group-title="CHACO", NG FEDERAL CHACO
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalsomosuno.tv/build/img/somosuno.svg" group-title="CHACO", SOMOS UNO TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ZmX7k3kujzcBTEl49dP0jSqLk5eYNWQIFEf-cnLjP6Xhbjvxw9QRfIa9h1xdKYkX0n5WmY8Y=s160-c-k-c0x00ffffff-no-rj" group-title="CHACO", SOMOS UNO TV
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1374019613231579138/8hXClQRl_400x400.jpg" group-title="CHACO", CIUDAD TV CHACO
 https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CHACO", VIP TV
+#EXTINF:-1 tvg-logo="https://puntoclick.com.ar/storage/google-places/662bee275f046.jpg" group-title="CHACO", VIP TV
 https://stmv1.voxtvhd.com.br/viptvv/viptvv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://laradio1047.com.ar/images/logo_top.png" group-title="CHACO", LA RADIO FM 104.7 FM RESISTENCIA CHACO
