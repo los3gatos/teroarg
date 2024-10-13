@@ -971,6 +971,9 @@ https://xhateaec.com:8800/hls/IPERSONICA/IPERSONICA/e1c1fb05e0800555fc99bd2f55b5
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1612_Zapp_Uno.png" group-title="AMBA", ZAPP UNO
 https://glb.bozztv.com/glb/ssh101/zappuno/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1722854062943588352/TI09rU_V_400x400.jpg" group-title="AMBA", BUENOS AIRES BA
+https://glb.bozztv.com/glb/ssh101/batvar/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000759444059/c1ea62d7b6f20f40999a3245e88a9ad3_400x400.jpeg" group-title="AMBA", CANAL 6 MORENO
 https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
 
