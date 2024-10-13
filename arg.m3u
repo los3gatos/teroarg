@@ -262,6 +262,9 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0003
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JxTyO3fqqzmDMpm3NVF8wEZuuyGdJGlYHo4kSjo9BwGEZmuHL5rq3GhMbAjNHb82v20FId6AdQ=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Radio La Red AM 910
 https://ythls-v3.onrender.com/channel/UCs1U5lRXvUJHn0CgXI6oXAw.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JAFTwg3ZoLX18I-XOlJPqA3VYP2wKuYrAI9N409lphAHgJfBDV4b2W6-Y7mr7-lHFWwF5zo58g=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Radio Nacional Argentina AM870
+https://ythls-v3.onrender.com/channel/UCgcUYL6ODQniPuwD4N-Tlvg.m3u8
+
 #EXTINF:-1 tvg-logo="https://amdelplata.com/wp-content/uploads/2023/08/logo-negativo.png" group-title="NOTICIAS NACIONALES", RADIO DEL PLATA AM 1030
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0007
 
