@@ -2158,6 +2158,9 @@ https://stream.radiosmundiales.com:19360/sanluismas/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2rWFai7wm5hmr6nAciUu7Esm8YcLq10du0w&usqp=CAU" group-title="SAN LUIS", CANAL 2 SAN LUIS
 https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://diarioprensadelinterior.com/uploads/files/file_610491d993e47.png" group-title="SAN LUIS", PRENSA DEL INTERIOR TV
+https://stmvideo3.livecastv.com/prensadelinterior/prensadelinterior/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://masiradiotv.com/wp-content/uploads/2021/12/logo-horizontal-masiradiotv-728x228.png" group-title="SAN LUIS", MASIRADIOTV 92.7
 https://stream.arcast.live:4443/radiomasi/radiomasi/playlist.m3u8
 
