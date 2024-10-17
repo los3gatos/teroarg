@@ -4,8 +4,39 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="170", 1
 
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/online-24-7.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="170", 2
 
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/telefe.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="170", 3
+
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/eltrece.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="170", 4
+
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/tvpublica.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="170", 5
+
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/americatv.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="170", 6
+
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/tn.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="170", 7
+
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/rural.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="170", 8
+
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/canalciud.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="170", 9
+
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/cordobatelefe.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="170", 10
+
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/NeuraM.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="170", 11
+
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/eldoce.playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="prueba stream", el ocho tv 2
