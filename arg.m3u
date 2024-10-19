@@ -115,8 +115,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/12/22/74/122274696f1c7a37438e3452c79fb81d.jpg" group-title="NACIONALES", LOS SIMPSONS
-
-
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/online-24-7.playlist.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/613px-Logo_del_canal_Encuentro.svg.png" group-title="NACIONALES", ENCUENTRO
 http://181.209.114.13:8000/play/a01m/index.m3u8
