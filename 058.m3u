@@ -137,19 +137,19 @@ http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/t5satelital.pl
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/telesolsanjuan_285.png" group-title="TV PLAY", TELESOL SAN JUAN
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/telesolsanjuan.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV PLAY", TELEFE SANTA FE
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1669538372061208579/Wibfqd9H_400x400.jpg" group-title="TV PLAY", TELEFE SANTA FE
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/13SantaFe.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV PLAY", NUEVE LITORAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_9_Litoral_2021.png/133px-Canal_9_Litoral_2021.png" group-title="TV PLAY", NUEVE LITORAL
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/nuevelitoral_1080.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV PLAY", TELEFE ROSARIO
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="TV PLAY", TELEFE ROSARIO
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/canal5.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV PLAY", CANAL 10 MAR DEL PLATA
+#EXTINF:-1 tvg-logo=http://www.radiosargentina.com.ar/png/VI--LU82.png"" group-title="TV PLAY", CANAL 10 MAR DEL PLATA
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/10MardelPlata.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV PLAY", CANAL 8 MAR DEL PLATA
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1552046129801580548/aPHfyis0_400x400.jpg" group-title="TV PLAY", CANAL 8 MAR DEL PLATA
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/canal8marplt.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/silverchannel_285.png" group-title="TV PLAY", SILVER CHANNEL
@@ -172,6 +172,22 @@ http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/10salta.playli
 
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/canal7salta_285.png" group-title="TV PLAY", CANAL 7 SALTA
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/canal7salta.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/247Neuquen_285.png" group-title="TV PLAY", 24-7 NEUQUEN
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/cn247.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/247Neuquen_285.png" group-title="TV PLAY", RTS TELEVISION SANTAFECINA
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/5RTv.playlist.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 
