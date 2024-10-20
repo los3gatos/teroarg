@@ -2257,9 +2257,6 @@ https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/canal-5-del-pueblo.png?itok=xeDioec1" group-title="SANTA FE", CANAL 5 DEL PUEBLO
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SANTA FE", RETRO CANAL 2
-https://ssh101-fl.bozztv.com/ssh101/variado/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/U7e6Vw-P__t97f3CiFFgZ0P1bJd5RUdNA3ptCHwQcwSRAma-z7mu2ZPj7KSi3-EqHjv4ZRGD-w=s160-c-k-c0x00ffffff-no-rj" group-title="SANTA FE", CANAL 14 ELORTONDO
 https://stmv2.voxtvhd.com.br/canal14tv2/canal14tv2/playlist.m3u8
 
