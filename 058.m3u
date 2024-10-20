@@ -206,13 +206,14 @@ http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/canal8sanjuan.
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/Fashiontvla_285.png" group-title="TV PLAY", FASHION TV
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/fashiontv.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/RedBull_285.png" group-title="TV PLAY", RED BULL TV
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/RedBull.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/hipodromocamarero_285.png" group-title="TV PLAY", HIPODROMO CAMARERO
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/hipodromocamarero.playlist.m3u8
 
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/800px-DeporTV_%282020_Logo_oficial%29.png" group-title="TV PLAY", DEPORTV
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/deportv.playlist.m3u8
 
 
 
