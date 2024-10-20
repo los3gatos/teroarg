@@ -176,17 +176,35 @@ http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/canal7salta.pl
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/247Neuquen_285.png" group-title="TV PLAY", 24-7 NEUQUEN
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/cn247.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/247Neuquen_285.png" group-title="TV PLAY", RTS TELEVISION SANTAFECINA
+#EXTINF:-1 tvg-logo="https://www.santafecanal.com.ar/assets/img/logo_rts.png?r=2" group-title="TV PLAY", RTS TELEVISION SANTAFECINA
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/5RTv.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/PlayTV_285.png" group-title="TV PLAY", PLAY TV
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/PlayTV.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/chacodxdtv_285.png" group-title="TV PLAY", CIUDAD TV RESISTENCIA
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/ciudadchaco.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/10rionegro_285.png" group-title="TV PLAY", CANAL 10 RIO NEGRO
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/10rionegro.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/LinkTvCanal_285.png" group-title="TV PLAY", LINK TV
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/LinkTvCanal.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/12Misiones_285.png" group-title="TV PLAY", DOCE MISIONES
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/docemisiones.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/TelpinHD_285.png" group-title="TV PLAY", CANAL 2 TELPIN
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/telepin.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/Canal4SanJuan_285.png" group-title="TV PLAY", CANAL 4 SAN JUAN
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/4sanjuan.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/Canal8SanJuan_285.png" group-title="TV PLAY", CANAL 8 SAN JUAN
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/canal8sanjuan.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/Fashiontvla_285.png" group-title="TV PLAY", FASHION TV
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/fashiontv.playlist.m3u8
 
 
 
