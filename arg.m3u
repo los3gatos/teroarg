@@ -887,8 +887,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/63eb9255c111bc0008fe6ec4/master.m3u
 http://181.78.27.128:8000/play/a04x/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="ANIME - TEEN", ANIME STATION 
-https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000019-8775e87760/450/GGGGGGGG.webp?ph=d0cdb7b2de" group-title="ANIME - TEEN", TALTAL
+https://glb.bozztv.com/glb/ssh101/taltal/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="ANIME - TEEN", ZTV Anime
 https://mitv.zplay.cl/Ztv/index.m3u8
