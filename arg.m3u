@@ -1740,8 +1740,8 @@ https://cs1.xcast.com.br/8884/8884/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radioser.com.ar/img/logo_1693314286.jpeg" group-title="ENTRE RIOS", Radioser 95.3 FM Hasenkamp
 https://inliveserver.com:1936/9028/9028/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://neonetmusic.com.ar/wp-content/uploads/2024/08/cabecera-web.jpg" group-title="ENTRE RIOS", NEO NET MUSIC DIAMANTE
+https://glb.bozztv.com/glb/ssh101/neonetmusic/tracks-v1a1/mono.m3u8
 
 
 
