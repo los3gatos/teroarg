@@ -215,6 +215,37 @@ http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/hipodromocamar
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/800px-DeporTV_%282020_Logo_oficial%29.png" group-title="TV PLAY", DEPORTV
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/deportv.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/Extrema_285.png" group-title="TV PLAY", EXTREMA TV
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/Extrema.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/Vorterix_285.png" group-title="TV PLAY", VORTERIX
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/vorterix.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/RT_285.png" group-title="TV PLAY", RT ESPAÑOL
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/rttve.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/DWLat_285.png" group-title="TV PLAY", DW ESPAÑOL 
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/dwlat.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/VPItv_285.png" group-title="TV PLAY", VPI TV
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/VPItv.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/France24_285.png" group-title="TV PLAY", FRANCE 24
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/france24.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/AlJazeera_285.png" group-title="TV PLAY", ALJASEERA
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/alzazeera.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/SkyNews_285.png" group-title="TV PLAY", SKY NEWS
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/skynew.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/Excelsior_285.png" group-title="TV PLAY", EXCELSIOR TV
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/excelsior.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/novotempo_285.png" group-title="TV PLAY", NOVO TEMPO
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/novotempo.playlist.m3u8
+
+
 
 
 
