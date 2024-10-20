@@ -68,9 +68,6 @@ http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/24horas.playli
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/TECtv_285.png" group-title="TV PLAY", TEC TV
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/tectv.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/nortevision_285.png" group-title="TV PLAY", CANAL 10 NORTEVISION
-http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/nortevision.playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="TV PLAY", TELEMAX
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/telemax.playlist.m3u8
 
@@ -134,8 +131,47 @@ http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/eldoce.playlis
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/wowtv_285.png" group-title="TV PLAY", WOW TV
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/wowtv.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/t5satelital_285.png" group-title="TV PLAY", T5 SATELITAL
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/t5satelital.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/telesolsanjuan_285.png" group-title="TV PLAY", TELESOL SAN JUAN
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/telesolsanjuan.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TV PLAY", TELEFE SANTA FE
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/13SantaFe.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV PLAY", NUEVE LITORAL
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/nuevelitoral_1080.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV PLAY", TELEFE ROSARIO
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/canal5.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV PLAY", CANAL 10 MAR DEL PLATA
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/10MardelPlata.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV PLAY", CANAL 8 MAR DEL PLATA
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/canal8marplt.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/silverchannel_285.png" group-title="TV PLAY", SILVER CHANNEL
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/silverchannel.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/nortevision_285.png" group-title="TV PLAY", CANAL 10 NORTEVISION
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/nortevision.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/canal7jujuy_285.png" group-title="TV PLAY", CANAL 7 JUJUY
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/canal7jujuy.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/RTNNeuquen_285.png" group-title="TV PLAY", RTN NEUQUEN
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/RTNNeuquen.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/Canal4Jujuy_285.png" group-title="TV PLAY", CANAL 4 JUJUY
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/c4jujuy.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/10salta_285.png" group-title="TV PLAY", 10 SALTA
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/10salta.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/canal7salta_285.png" group-title="TV PLAY", CANAL 7 SALTA
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/canal7salta.playlist.m3u8
 
 
 
