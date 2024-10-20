@@ -68,18 +68,71 @@ http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/24horas.playli
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/TECtv_285.png" group-title="TV PLAY", TEC TV
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/tectv.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/nortevision_285.png" group-title="TV PLAY", CANAL 10 NORTEVISION
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/nortevision.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV PLAY", TELEMAX
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/telemax.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/net-tv_285.png" group-title="TV PLAY", NET TV
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/CanalNet.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/canal9televida_285.png" group-title="TV PLAY", CANAL 9 TELEVIDA
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/canal9televida.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/euronews_285.png" group-title="TV PLAY", EURONEWS
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/euronews.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/TalkingGinger_285.png" group-title="TV PLAY", TALKING GINGER
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/TalkingGinger.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/pepapig_285.png" group-title="TV PLAY", PEPPA PIG
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/pepapig.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/BoobaTV_285.png" group-title="TV PLAY", BOOBA TV
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/BoobaTV.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/ipanda_285.png" group-title="TV PLAY", IPANDA
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/ipanda.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/nasa_285.png" group-title="TV PLAY", NASA
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/nasa.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/SEOBird_285.png" group-title="TV PLAY", SEO BIRD
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/SEOBird.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/explore_285.png" group-title="TV PLAY", EXPLORE.ORG
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/explore.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/safariliv_285.png" group-title="TV PLAY", SAFARI LIVE
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/safariliv.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/zootv_285.png" group-title="TV PLAY", ZOO TV
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/zootv.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/okfmarroyito_285.png" group-title="TV PLAY", OK FM ARROYITO
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/okfmarroyito.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/telediariodigital_285.png" group-title="TV PLAY", TELEDIARIO
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/telediariodigital.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/canal10srt_285.png" group-title="TV PLAY", CANAL U CORDOBA
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/canal10srt.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/canal10cba_285.png" group-title="TV PLAY", CANAL 10 CORDOBA
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/canal10cba.playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/cordobatelefe_285.png" group-title="TV PLAY", TELEFE CORDOBA
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/cordobatelefe.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/freyre_285.png" group-title="TV PLAY", CANAL 6 FREYRE
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/freyre.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/ElDoce_285.png" group-title="TV PLAY", EL DOCE CORDOBA
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/eldoce.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/nortevision_285.png" group-title="TV PLAY", CANAL 10 NORTEVISION
-http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/nortevision.playlist.m3u8
-
-
-
-
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/wowtv_285.png" group-title="TV PLAY", WOW TV
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/wowtv.playlist.m3u8
 
 
 
