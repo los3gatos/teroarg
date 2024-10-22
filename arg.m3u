@@ -889,7 +889,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/63eb9255c111bc0008fe6ec4/master.m3u
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/pakapaka.png" group-title="INFANTIL", PAKA PAKA 
 http://181.78.27.128:8000/play/a04x/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/los-simpson-24hs_285.png" group-title="NACIONALES", LOS SIMPSONS
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/los-simpson-24hs_285.png" group-title="INFANTIL", LOS SIMPSONS
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/online-24-7.playlist.m3u8
 
 
@@ -938,7 +938,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://1.bp.blogspot.com/-qxyuiw-51EA/X87iUEZLoPI/AAAAAAAA7i4/iUAmvdMqID0mUMlZnAiFiCgk359CtAyjgCLcBGAsYHQ/s0/musictop_logo.png" group-title="MUSICA", MUSIC TOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Bigchannel.png" group-title="MUSICA", BIG CHANNEL
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Bigchannel.png" group-title="INFANTIL", BIG CHANNEL
 https://glb.bozztv.com/glb/ssh101/bigchannel/playlist.m3u8
 
 
