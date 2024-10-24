@@ -962,11 +962,14 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://canal22web.com/wp-content/uploads/2024/05/LOGO-CANAL-REBORDE-BLANCO-1.2.png" group-title="AMBA", CANAL 22 WEB
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/1026-tele-mix_orig.png" group-title="AMBA", TELE MIX CANAL 50 GLEW
+https://glb.bozztv.com/glb/ssh101/telemixlive/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.onesignal.com/permanent/2abdeea6-0a9d-4083-913c-277bf221b79e" group-title="AMBA", SICARDI TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/00EQSpLEHALZcBu6cDo8t4fURJaePo0HH9IBZt7QYbkCukYnp4TzKR4WSrXyBrcZOquzvDUB_dI=s160-c-k-c0x00ffffff-no-rj" group-title="AMBA", DITI TV
-https://glb.bozztv.com/glb/ssh101/dititv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2023/03/Marca-UNLP-TV-sin-fondo.png" group-title="AMBA", TVU LA PLATA 32.1
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhCJtgn9fZJ_NMqXU3XTg5bjouqriBfsR5rVSSHAGnR-dJWGhyMAFKvS4OPVZUiYSb3qI&usqp=CAU" group-title="AMBA", Bayres TV 41.1
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
@@ -983,8 +986,8 @@ https://xhateaec.com:8800/hls/IPERSONICA/IPERSONICA/e1c1fb05e0800555fc99bd2f55b5
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1612_Zapp_Uno.png" group-title="AMBA", ZAPP UNO
 https://glb.bozztv.com/glb/ssh101/zappuno/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1722854062943588352/TI09rU_V_400x400.jpg" group-title="AMBA", BUENOS AIRES BA
-https://glb.bozztv.com/glb/ssh101/batvar/index.m3u8
+#EXTINF:-1 tvg-logo="https://realpolitik.com.ar/uploads/cliente/marca/20180801093720_realpolitik-logo.svg" group-title="AMBA", REALPOLITIK LA PLATA
+https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000759444059/c1ea62d7b6f20f40999a3245e88a9ad3_400x400.jpeg" group-title="AMBA", CANAL 6 MORENO
 https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
@@ -992,14 +995,14 @@ https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mediospublicos.marcospaz.net/images/logos/tv-w.png" group-title="AMBA", TVP MARCOS PAZ 19.1
 https://nd106.republicaservers.com/hls/skerk4747/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_Radio_AN24.png" group-title="AMBA", AN24
+https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/chunklist_w1870422688.m3u8
+
 #EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/atvargentina-x1.png" group-title="AMBA", ATV ARGENTINA 19.1
 https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/bc45740f1e3774c663644d7488cfee08.png" group-title="AMBA", Urbana TeVe 32.2
 https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1374815971156889603/4CFJ_AIG_400x400.jpg" group-title="AMBA", MI PAIS TV
-https://panel.host-live.com/8024/8024/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/vector-gratis/inspiracion-diseno-logotipo-microfono_57043-231.jpg" group-title="AMBA", DEJANDO HUELLAS
 https://inliveserver.com:1936/9014/9014/playlist.m3u8
@@ -1013,26 +1016,35 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1620_Monte_Grande.png" group-title="AMBA", MONTE GRANDE TELEVISION
 https://fl1002.bozztv.com/ssh101/montegrandetv/tracks-v1a1/mono.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2023/03/Marca-UNLP-TV-sin-fondo.png" group-title="AMBA", TVU LA PLATA 32.1
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8  
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_npWJ8k6oWxC9-BYXB6IANAnxtTsWY8MKLgBdxBHF8N190=s160-c-k-c0x00ffffff-no-rj" group-title="AMBA", TELEVISION 33
+https://tuvideoonline.com.ar:3703/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png" group-title="AMBA", VIAJAR
+https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://teveodigital.tv/wp-content/uploads/2022/07/logoweb.png" group-title="AMBA", TEVEO DIGITAL
+https://stmvideo1.livecastv.com/tvo/tvo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1542" tvg-name="Televideo" tvg-logo="https://cdn.m3u.cl/logo/1542_Televideo.png" group-title="AMBA", Televideo
+https://stmvideo1.livecastv.com/televideo/televideo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/m1nvCCRDaN-1sMPFr57lW0cVaHLp-52YXDjhR1XktUiSNCj9W2QFXkXG6_F2Wtb1K5CgRc7_vA=s900-c-k-c0x00ffffff-no-rj" group-title="AMBA", ESPACIO FABRIK
+https://stmv6.voxtvhd.com.br/espaciofabrik/espaciofabrik/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFIVETV.png" group-title="AMBA", FIVE TV  16.1
 https://panel.dattalive.com/8118/8118/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_npWJ8k6oWxC9-BYXB6IANAnxtTsWY8MKLgBdxBHF8N190=s160-c-k-c0x00ffffff-no-rj" group-title="AMBA", TELEVISION 33
-https://tuvideoonline.com.ar:3703/stream/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvcanal72.com.ar/wp-content/uploads/2022/08/LOGO-CANAL-72-1-1536x384.png" group-title="AMBA", CANAL 72
 https://stmv6.voxtvhd.com.br/canal72tv/canal72tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1580945742138671107/jGi6et3P_400x400.png" group-title="AMBA", REALPOLITIK LA PLATA
-https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/11/SUENOS-TV.jpg" group-title="AMBA", SUEÑOS GROUP TV
 https://glb.bozztv.com/glb/ssh101/suenosgrup/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/1026-tele-mix_orig.png" group-title="AMBA", TELE MIX CANAL 50 GLEW
-https://glb.bozztv.com/glb/ssh101/telemixlive/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1722854062943588352/TI09rU_V_400x400.jpg" group-title="AMBA", BUENOS AIRES BA
+https://glb.bozztv.com/glb/ssh101/batvar/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/00EQSpLEHALZcBu6cDo8t4fURJaePo0HH9IBZt7QYbkCukYnp4TzKR4WSrXyBrcZOquzvDUB_dI=s160-c-k-c0x00ffffff-no-rj" group-title="AMBA", DITI TV
+https://glb.bozztv.com/glb/ssh101/dititv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/894572709170032640/lf59GoQx_400x400.jpg" group-title="AMBA", TELECREATIVA LANUS
 https://panel.host-live.com/8012/8012/playlist.m3u8
@@ -1043,29 +1055,14 @@ https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1551_24_7_TV.png" group-title="AMBA", 24-7 TV
 https://stmv5.voxtvhd.com.br/247tv/247tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png" group-title="AMBA", VIAJAR
-https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://canal3argentina.tv/wp-content/uploads/2018/11/cropped-logoweb.png" group-title="AMBA", CANAL 3 ARGENTINA
 https://stmv6.voxtvhd.com.br/canal3argentina/canal3argentina/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1102262882321002496/q3dbohLs_400x400.jpg" group-title="AMBA", CANAL UNO TV
 https://stmv3.voxtvhd.com.br/unotvargentina/unotvargentina/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/m1nvCCRDaN-1sMPFr57lW0cVaHLp-52YXDjhR1XktUiSNCj9W2QFXkXG6_F2Wtb1K5CgRc7_vA=s900-c-k-c0x00ffffff-no-rj" group-title="AMBA", ESPACIO FABRIK
-https://stmv6.voxtvhd.com.br/espaciofabrik/espaciofabrik/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2024/03/63-TV-Fantastico.jpg" group-title="AMBA", CANAL 4 TV FANTASTICO
 https://stmv2.voxtvhd.com.br/radiotvfantastico/radiotvfantastico/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_Radio_AN24.png" group-title="AMBA", AN24
-https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/chunklist_w1870422688.m3u8
-
-#EXTINF:-1 tvg-logo="https://teveodigital.tv/wp-content/uploads/2022/07/logoweb.png" group-title="AMBA", TEVEO DIGITAL
-https://stmvideo1.livecastv.com/tvo/tvo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1542" tvg-name="Televideo" tvg-logo="https://cdn.m3u.cl/logo/1542_Televideo.png" group-title="AMBA", Televideo
-https://stmvideo1.livecastv.com/televideo/televideo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPA9-frGpTEVxzPdcOUwSQt7_zmPL59-7CNqwha0ySb5hF2DBnrCOUzgeUKMXhx-E33PYSe2fgNpF5PrrMAnuZtAv_cBQxV2u4rSn_GxvuGJa2koje2lBLQOeyMl6GF4pa1jUWWG7bgpTc_AQWpBbfbpZn9eFla7Q7hKKeobKPJDbqFnYqieqfLIjkm_8/s200/SKYVISION%20TV.jpg" group-title="AMBA", Sky Vision
 https://stmvideo3.livecastv.com/visionsky/visionsky/index.m3u8
@@ -1081,9 +1078,6 @@ https://ythls.armelin.one/channel/UCQtJCkHdO66sKxvfD8Ik_bg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tjkAsX3xKROi9W558RKpI_CUwHiknuQXTTYHeqFPdu-BuBvHzToha9X26BXt34I7yiFy48EsBw=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", Pilar Play
 https://ythls.armelin.one/channel/UClFaWD8mSP7Chyk2tXz29PQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWssSiiv5-VNemX1EZVnTNJd8J1HvdTlbFFxOgw=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", Radio Caput
-https://ythls.armelin.one/channel/UCSNEUHaJ2fg7EA0qxweuTxg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_npFV9T27REoAAI-D0S8bykaIzaB7C4_ejxV-Yw4UXnDuU=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA",  Hipodromo de Palermo 
 https://ythls.armelin.one/channel/UCBQnpH3GKOKRGg4O8PpqQSw.m3u8
