@@ -40,6 +40,7 @@ http://89.117.74.211:1234/stream/latino/canal9?u=https://drm-mpd.homeip.net/Drm-
 
 #EXTINF:14 group-title="latino" tvg-id="latino/canale" tvg-logo="" provider="latino" provider-logo="" provider-type="iptv",[latino] Canal E
 http://89.117.74.211:1234/stream/latino/canale?u=https://drm-mpd.homeip.net/Drm-Mpd/&p=11d1ff4edd53407199c92b00cbc3abe8c9c5d5bed4414ad07b55c896b0e7a713
+
 #EXTINF:15 group-title="latino" tvg-id="latino/cartoon" tvg-logo="" provider="latino" provider-logo="" provider-type="iptv",[latino] Cartoon
 http://89.117.74.211:1234/stream/latino/cartoon?u=https://drm-mpd.homeip.net/Drm-Mpd/&p=11d1ff4edd53407199c92b00cbc3abe8c9c5d5bed4414ad07b55c896b0e7a713
 
@@ -78,6 +79,7 @@ http://89.117.74.211:1234/stream/latino/discoverykids?u=https://drm-mpd.homeip.n
 
 #EXTINF:27 group-title="latino" tvg-id="latino/disney" tvg-logo="" provider="latino" provider-logo="" provider-type="iptv",[latino] Disney
 http://89.117.74.211:1234/stream/latino/disney?u=https://drm-mpd.homeip.net/Drm-Mpd/&p=11d1ff4edd53407199c92b00cbc3abe8c9c5d5bed4414ad07b55c896b0e7a713
+
 #EXTINF:28 group-title="latino" tvg-id="latino/disneyjr" tvg-logo="" provider="latino" provider-logo="" provider-type="iptv",[latino] Disney JR
 http://89.117.74.211:1234/stream/latino/disneyjr?u=https://drm-mpd.homeip.net/Drm-Mpd/&p=11d1ff4edd53407199c92b00cbc3abe8c9c5d5bed4414ad07b55c896b0e7a713
 
@@ -116,6 +118,7 @@ http://89.117.74.211:1234/stream/latino/foxsports?u=https://drm-mpd.homeip.net/D
 
 #EXTINF:40 group-title="latino" tvg-id="latino/foxsports2" tvg-logo="" provider="latino" provider-logo="" provider-type="iptv",[latino] Fox Sports 2
 http://89.117.74.211:1234/stream/latino/foxsports2?u=https://drm-mpd.homeip.net/Drm-Mpd/&p=11d1ff4edd53407199c92b00cbc3abe8c9c5d5bed4414ad07b55c896b0e7a713
+
 #EXTINF:41 group-title="latino" tvg-id="latino/foxsports3" tvg-logo="" provider="latino" provider-logo="" provider-type="iptv",[latino] Fox Sports 3
 http://89.117.74.211:1234/stream/latino/foxsports3?u=https://drm-mpd.homeip.net/Drm-Mpd/&p=11d1ff4edd53407199c92b00cbc3abe8c9c5d5bed4414ad07b55c896b0e7a713
 
@@ -154,6 +157,7 @@ http://89.117.74.211:1234/stream/latino/hbosignature?u=https://drm-mpd.homeip.ne
 
 #EXTINF:53 group-title="latino" tvg-id="latino/hboxtreme" tvg-logo="" provider="latino" provider-logo="" provider-type="iptv",[latino] HBO Xtreme
 http://89.117.74.211:1234/stream/latino/hboxtreme?u=https://drm-mpd.homeip.net/Drm-Mpd/&p=11d1ff4edd53407199c92b00cbc3abe8c9c5d5bed4414ad07b55c896b0e7a713
+
 #EXTINF:54 group-title="latino" tvg-id="latino/hgtv" tvg-logo="" provider="latino" provider-logo="" provider-type="iptv",[latino] HGTV
 http://89.117.74.211:1234/stream/latino/hgtv?u=https://drm-mpd.homeip.net/Drm-Mpd/&p=11d1ff4edd53407199c92b00cbc3abe8c9c5d5bed4414ad07b55c896b0e7a713
 
@@ -195,6 +199,7 @@ http://89.117.74.211:1234/stream/latino/nick?u=https://drm-mpd.homeip.net/Drm-Mp
 
 #EXTINF:67 group-title="latino" tvg-id="latino/nickjr" tvg-logo="" provider="latino" provider-logo="" provider-type="iptv",[latino] Nick jr
 http://89.117.74.211:1234/stream/latino/nickjr?u=https://drm-mpd.homeip.net/Drm-Mpd/&p=11d1ff4edd53407199c92b00cbc3abe8c9c5d5bed4414ad07b55c896b0e7a713
+
 #EXTINF:68 group-title="latino" tvg-id="latino/pakapaka" tvg-logo="" provider="latino" provider-logo="" provider-type="iptv",[latino] Paka Paka
 http://89.117.74.211:1234/stream/latino/pakapaka?u=https://drm-mpd.homeip.net/Drm-Mpd/&p=11d1ff4edd53407199c92b00cbc3abe8c9c5d5bed4414ad07b55c896b0e7a713
 
@@ -233,6 +238,7 @@ http://89.117.74.211:1234/stream/latino/teennick?u=https://drm-mpd.homeip.net/Dr
 
 #EXTINF:80 group-title="latino" tvg-id="latino/telefe" tvg-logo="" provider="latino" provider-logo="" provider-type="iptv",[latino] TELEFE
 http://89.117.74.211:1234/stream/latino/telefe?u=https://drm-mpd.homeip.net/Drm-Mpd/&p=11d1ff4edd53407199c92b00cbc3abe8c9c5d5bed4414ad07b55c896b0e7a713
+
 #EXTINF:81 group-title="latino" tvg-id="latino/telesur" tvg-logo="" provider="latino" provider-logo="" provider-type="iptv",[latino] TELESUR
 http://89.117.74.211:1234/stream/latino/telesur?u=https://drm-mpd.homeip.net/Drm-Mpd/&p=11d1ff4edd53407199c92b00cbc3abe8c9c5d5bed4414ad07b55c896b0e7a713
 
