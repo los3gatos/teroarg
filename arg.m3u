@@ -1111,7 +1111,7 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0012
 https://ythls.armelin.one/channel/UCAlQ5f7mhnkfM6jjXeJDw7g.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/W2KdC8bXe-lXWS7ki5lcoW9cJ_59kNiiiMmCvbfU6pM6Dj1lLVoRZmanBdJ3oXcVzzUbhymr2A=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", VORTERIX - 92.1 FM
-https://g3.vxral-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
+https://g3.vxral-hor.transport.edge-access.net/b04/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Popradio.gif" group-title="RADIO-AMBA", Pop Radio 101.5
 https://ythls.armelin.one/channel/UCtc_WjDRwCrZSEq2WEwD7XQ.m3u8
@@ -1123,12 +1123,12 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0016
 https://g3.vxral-slo.transport.edge-access.net/b08/ngrp:cronica_fmq-100044_all/cronica_fmq-100044_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A12ZTP1poAm-r0MSEWCa7r3majA6OuUHKvSHZdaCbiMGccwPQRp2qc_J5lXWPj9drKeZ=s180" group-title="RADIO-AMBA", LA 1130 AM SANTIAGO Y COPLA - G LAFERRERE
-https://panel.dattalive.com/8140/8140/playlist.m3u8
+https://panel.host-live.com/8140/8140/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiojai.com/wp-content/uploads/2021/01/logo_jai_celeste-1.png" group-title="RADIO-AMBA", 96.3 RADIO JAI
 https://vivo.solumedia.com:19360/jaitv/jaitv.m3u8
 
-#EXTINF:-1 tvg-logo="https://beatsradio.com.ar/imagenes/logo.png" group-title="RADIO-AMBA", BEATS  - 100.5 FM - TIGRE
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/16/47/1647589bf8364b951017140a1cfaa30e.jpg" group-title="RADIO-AMBA", BEATS 100.5 FM - TIGRE
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.classfm.com.ar/images/cabecera.png" group-title="RADIO-AMBA", RADIO CLASS 91.9 FM SAENZ PEÑA
