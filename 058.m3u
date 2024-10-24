@@ -269,8 +269,59 @@ http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/excelsior.play
 #EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/novotempo_285.png" group-title="TV PLAY", NOVO TEMPO
 http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/novotempo.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/nuevotiempo_285.png" group-title="TV PLAY", NUEVO TIEMPO
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/nuevotiempo.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/elpringlense_285.png" group-title="TV PLAY", PRINGLES DIGITAL
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/elpringlense.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/AlientoVision_285.png" group-title="TV PLAY", ALIENTO VISION
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/alientovision.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/EWTN_285.png" group-title="TV PLAY", EWTN
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/EWTN.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/redadvenir_285.png" group-title="TV PLAY", RED ADVENIR
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/RedAvenir.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/EsperanzaTV_285.png" group-title="TV PLAY", ESPERANZA TV
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/EsperanzaTV_lng.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/ComunionTV_285.png" group-title="TV PLAY", COMUNION TV
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/ComunionTV.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/CanalLuz_285.png" group-title="TV PLAY", CANAL LUZ
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/canalluz.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/RadioUrbana_285.png" group-title="TV PLAY", RADIO URBANA
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/RadioUrbana.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/fmpowermax_285.png" group-title="TV PLAY", RADIO POWER MAX
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/fmpowermax.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/Soothing-Relaxation_285.png" group-title="TV PLAY", SOOTHING RELAXATION
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/SoothingRelaxation.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/portalfoxmix_285.png" group-title="TV PLAY", PORTAL FOXMIX
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/portalfoxmix.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/collegemusic_285.png" group-title="TV PLAY", COLLEGE MUSIC 1
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/collegemusic.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/lofihiphop_285.png" group-title="TV PLAY", COLLEGE MUSIC 2
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/lofihiphop.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/CafeMusicBGM_285.png" group-title="TV PLAY", CAFE MUSIC BGM
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/CafeMusicBGM.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/ChillhopMusic_285.png" group-title="TV PLAY", CHILLHOPMUSIC
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/ChillhopMusic.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/MusicTop_285.png" group-title="TV PLAY", MUSIC TOP
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/musictop.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/RetroTV_285.png group-title="TV PLAY", RETRO TV
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/retro.playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="youtube", ythls-v3.onrender
