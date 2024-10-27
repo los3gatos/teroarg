@@ -1310,6 +1310,9 @@ https://streamconex.com:19360/puan/puan.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="PCIA BS AS", CANAL 79 VILLA MAZA
 https://streamconex.com:19360/villamaza/villamaza.m3u8
 
+#EXTINF:-1 tvg-logo="https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/298510973_493693496096138_7009555848871452037_n.png?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFTXiC8Fg-aFU_lBgqO3Q573FyIGFkb_hrcXIgYWRv-Gjibt3bZ_yphN1l1aVklTrM&_nc_ohc=3rITLV_cBzEQ7kNvgG0VVcu&_nc_zt=23&_nc_ht=scontent.faep7-1.fna&_nc_gid=AXFcQm-y0yG1SZvlc9h01yI&oh=00_AYCy7JdBzCxy-6za9plVDXJXxsJoRBLy2L6xWC61dXlsCg&oe=67242147" group-title="PCIA BS AS", SALADILLO VIVO
+https://glb.bozztv.com/glb/ssh101/saladillovivo2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MarcKiNPLwk/W4OayrKDy6I/AAAAAAAAFC8/fPm93f4fJvc7gS3N-qHlHk8BycSJMhVhACLcBGAs/s1600/fm-99-9.png" group-title="PCIA BS AS", FM 99.9 MAR DEL PLATA
 https://fm999.info/test/index.m3u8  
 
