@@ -1674,7 +1674,7 @@ http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/D4dJktBXZr-HJd69IiAtn-013T2XheGAGTzZd9wIYrMydNa0EYHWCikOEFbuvdGyntpG4H8I9w=s88-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", ONCE TV PARANA
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0246
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0246 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_9_Litoral_2021.png/133px-Canal_9_Litoral_2021.png" group-title="ENTRE RIOS", CANAL 9 PARANA
 https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8
