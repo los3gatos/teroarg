@@ -1218,7 +1218,7 @@ https://alternatv.ar/stream/hls/live.m3u8
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playist.m3u8
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/tS-MzAHw_400x400_0.jpg?itok=G0qNiGQD" group-title="PCIA BS AS", EPS TV BRAGADO
-https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8
+https://cp.panelchs.com:1936/8146/ngrp:8146_all/playist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuOTWFu_8y-qIXam5g0zFDLoCHd3Ik5Zah8ps2yLB6l2Y3KceuwV3Jt2YiCu9pL_sFvFA&usqp=CAU" group-title="PCIA BS AS", JUNTO AL CAMPO
 https://stmv5.livecastv.com/juntoalcampo/juntoalcampo/playlist.m3u8
@@ -1690,6 +1690,9 @@ https://fl1002.bozztv.com/ssh101/flownoticias/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/lqGIeWkCT5X_fBPCPa8IVr0EBzXvWFkC3C_3IJPXI0iEjj_PJSQ4XbkhM2lGGZ3VZcWiFYe_=s176-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", CANAL 4 NOGOYA
 https://stmvideo2.livecastv.com/canal4nogoya/canal4nogoya/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lrtv.jaranetwork.com/sites/default/files/styles/poster/public/logos/antena2web4x-8_0_3.png?itok=TP844jQq" group-title="ENTRE RIOS", CANAL 5 ENTRE RIOS COLONIA AVELLANEDA
+https://panel.host-live.com/9099/9099/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/794587628427497472/aZ5YVv_e.jpg" group-title="ENTRE RIOS", REMANZO TV HERNANDARIAS ENTRE RIOS
 https://stmvideo1.livecastv.com/remansotv/remansotv/playlist.m3u8
