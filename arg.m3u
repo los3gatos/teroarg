@@ -2754,10 +2754,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
 
 
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKY5lWkPLawUp0o4nFXAMA-H-Bnwk6hX2hXopKlz=s176-c-k-c0x00ffffff-no-rj" group-title="URUGUAY", En Perspectiva   
+https://ythls.armelin.one/channel/UCzj1iuImjo-Eb8JMELC1Jwg.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9T4Ko6711CNenPvLULkrlAR6_Q9yosWHu_KKf4svKosboX-CaoMYveNWKeKx4xQQg-GCyVe9lg=s176-c-k-c0x00ffffff-no-rj" group-title="URUGUAY", M24 MOV 
+https://ythls.armelin.one/channel/UCu-U3hwhBTR3lzyZnPUL2Hg.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hM1tpQ7lGzoKJgbZ1Fg0PZvS_PeypucTuMMTJvHYNT1DE-a44M_WSeIqOOG3bOK_TaSf=w240-h480" group-title="URUGUAY", Canal Más
-https://clientestv.bachistreaming.com:3721/multi_web/play.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNYdZqfKDzA2ese55l16FfpZu27PISekOAaIMMR3w=s176-c-k-c0x00ffffff-no-rj" group-title="URUGUAY", 970Universal
+https://ythls.armelin.one/channel/UCYfmi4AKY-kMDkt7BtvOKxg.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TVCiudad_logo_2020.png/140px-TVCiudad_logo_2020.png" group-title="URUGUAY", CIUDAD TV
 https://ythls.armelin.one/channel/UCcEFFCUo9fD5DK1FcclyKUA.m3u8
@@ -2780,16 +2784,8 @@ https://stream.vivotv.uy/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/300640754_371522888517838_6889520694039382142_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFCbscOv5yZe1t9CZohsst8aEIkxrdE24toQiTGt0Tbi3cfeEW4glU3ueN74wzgqCc&_nc_ohc=W4lTB8puDm4Q7kNvgGXAXXE&_nc_ht=scontent.faep7-1.fna&oh=00_AYDCZYhYmYJG_ATJRKz31qEhtrtdbyMpUUu5pDfEMan8NQ&oe=66E8E54A" group-title="URUGUAY", TELE 8 MERCEDES
 http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKY5lWkPLawUp0o4nFXAMA-H-Bnwk6hX2hXopKlz=s176-c-k-c0x00ffffff-no-rj" group-title="URUGUAY", En Perspectiva   
-https://ythls.armelin.one/channel/UCzj1iuImjo-Eb8JMELC1Jwg.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9T4Ko6711CNenPvLULkrlAR6_Q9yosWHu_KKf4svKosboX-CaoMYveNWKeKx4xQQg-GCyVe9lg=s176-c-k-c0x00ffffff-no-rj" group-title="URUGUAY", M24 MOV 
-https://ythls.armelin.one/channel/UCu-U3hwhBTR3lzyZnPUL2Hg.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNYdZqfKDzA2ese55l16FfpZu27PISekOAaIMMR3w=s176-c-k-c0x00ffffff-no-rj" group-title="URUGUAY", 970Universal
-https://ythls.armelin.one/channel/UCYfmi4AKY-kMDkt7BtvOKxg.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hM1tpQ7lGzoKJgbZ1Fg0PZvS_PeypucTuMMTJvHYNT1DE-a44M_WSeIqOOG3bOK_TaSf=w240-h480" group-title="URUGUAY", Canal Más
+https://clientestv.bachistreaming.com:3721/multi_web/play.m3u8
 
 
 
