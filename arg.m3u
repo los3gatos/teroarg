@@ -712,7 +712,7 @@ http://181.78.27.128:8000/play/a01m/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWHIbwMhnFMCuzqAgYLr5jYv87JH7fDN65VxdIP=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", LUZU TV
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0104
+https://ythls.armelin.one/channel/UCTHaNTsP7hsVgBxARZTuajw.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fFQhXC5i5_BqbrkaWhpHPENuEvWk4rXuuxgPM15cUQrBkjIqJrFfIzPgOvwznvWhfoMHrEHxYnQ=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", OLGA
 https://ythls.armelin.one/channel/UC7mJ2EDXFomeDIRFu5FtEbA.m3u8
