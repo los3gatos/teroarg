@@ -1,22 +1,53 @@
-#EXTM3U  
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
-https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
-https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
-https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="youtube", ythls-v3.onrender
+https://ythls-v3.onrender.com/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
-https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="youtube", ythls.armelin
+https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
-https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
-https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
-https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="LATINO TV", yy 7
+http://190.11.130.46/mnp/a24/output.mpd
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="LATINO TV", yy 17
+http://cem02.cdn.rcs.net.ar/mnp/a24/output.mpd
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS 
+http://38.188.100.27:8000/play/a05m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/07/file-1-1.png" group-title="Tango Sports", DSPORTS 2 
+http://38.188.100.27:8000/play/a065/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/07/cro1a9IIVYYF0rH8hOn08-transformed.png" group-title="Tango Sports", DSPORTS PLUS HD
+http://38.188.100.27:8000/play/a066/index.m3u8
+
+
+
+
+
+
+
+ARG 2  http://181.209.114.13:8000/play
+ARG 3  http://181.13.252.102:8000/play
+ARG 4  http://181.78.27.128:8000/play
+ARG 5  http://187.102.208.83:50000/play
+ARG 6  http://181.13.173.86:8000/play
+ARG 7  http://38.188.100.27:8000/play
+ARG 8  http://181.209.95.29:8000/play
+ARG 9  http://216.244.200.34:8000/play
+ARG 90 http://190.123.90.146:8000/play
+ARG 91 http://190.94.186.158:8000/play
+ARG 92 http://45.5.151.151:8000/play
+ARG 96 http://200.26.177.54:8000/play
+
+
