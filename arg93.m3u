@@ -1,22 +1,260 @@
-#EXTM3U  
+#EXTM3U    
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
-https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
-https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
-https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
-https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
-https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
-https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
-https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
+#EXTINF:-1, AZTECA7
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/1.m3u8
+#EXTINF:-1, CANAL5
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/2.m3u8
+#EXTINF:-1, LATINA PE
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/4.m3u8
+#EXTINF:-1, AMERICA PE
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/5.m3u8
+#EXTINF:-1, HBO
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/31.m3u8
+#EXTINF:-1, HBO2
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/32.m3u8
+#EXTINF:-1, 24/7
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/38.m3u8
+#EXTINF:-1, WARNER
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/40.m3u8
+#EXTINF:-1, TNT
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/41.m3u8
+#EXTINF:-1, STAR
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/42.m3u8
+#EXTINF:-1, CINEMAX
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/43.m3u8
+#EXTINF:-1, CINECANAL
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/44.m3u8
+#EXTINF:-1, TELEFE
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/45.m3u8
+#EXTINF:-1, ELTRECE
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/46.m3u8
+#EXTINF:-1, DISTRITO COMEDIA
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/47.m3u8
+#EXTINF:-1, TELEMUNDO MIAMI
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/48.m3u8
+#EXTINF:-1, HISTORY
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/49.m3u8
+#EXTINF:-1, H2
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/50.m3u8
+#EXTINF:-1, AZTECA UNO
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/52.m3u8
+#EXTINF:-1, AZ INTERNACIONAL
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/53.m3u8
+#EXTINF:-1, AZ CINEMA
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/54.m3u8
+#EXTINF:-1, GALAVISON
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/55.m3u8
+#EXTINF:-1, TLN
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/56.m3u8
+#EXTINF:-1, LAS ESTRELLAS
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/57.m3u8
+#EXTINF:-1, USA NETWORK
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/58.m3u8
+#EXTINF:-1, CARACOL
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/59.m3u8
+#EXTINF:-1, ATV
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/61.m3u8
+#EXTINF:-1, UNIVISION [MIAMI]
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/62.m3u8
+#EXTINF:-1, UNICABLE
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/63.m3u8
+#EXTINF:-1, UNIMAS [MIAMI]
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/64.m3u8
+#EXTINF:-1, IMAGEN
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/65.m3u8
+#EXTINF:-1, CNN e Español
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/66.m3u8
+#EXTINF:-1, RT
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/67.m3u8
+#EXTINF:-1, UNIVERSO CHANNEL
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/69.m3u8
+#EXTINF:-1, GOLDEN PLUS
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/73.m3u8
+#EXTINF:-1, GOLDEN EDGE
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/74.m3u8
+#EXTINF:-1, TNT SERIES
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/76.m3u8
+#EXTINF:-1, SONY CHANNEL
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/77.m3u8
+#EXTINF:-1, AXN
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/78.m3u8
+#EXTINF:-1, UNIVERSAL CHANNEL
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/79.m3u8
+#EXTINF:-1, STUDIO UNIVERSAL
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/80.m3u8
+#EXTINF:-1, PARAMOUNT NETWORK [ESPAÑA]
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/83.m3u8
+#EXTINF:-1, CINE LATINO
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/84.m3u8
+#EXTINF:-1, ???
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/85.m3u8
+#EXTINF:-1, MTV
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/87.m3u8
+#EXTINF:-1, 24/7
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/88.m3u8
+#EXTINF:-1, HTV
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/89.m3u8
+#EXTINF:-1, COMEDY CENTRAL
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/91.m3u8
+#EXTINF:-1, NATGEO
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/92.m3u8
+#EXTINF:-1, 24/7
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/93.m3u8
+#EXTINF:-1, ANIMAL PLANET
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/94.m3u8
+#EXTINF:-1, Discovery en Español [USA,MIXED]
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/95.m3u8
+#EXTINF:-1, DISCOVERY TURBO
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/96.m3u8
+#EXTINF:-1, H&H
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/97.m3u8
+#EXTINF:-1, INVESTIGATION DISCOVERY
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/98.m3u8
+#EXTINF:-1, A&E
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/99.m3u8
+#EXTINF:-1, TLC
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/100.m3u8
+#EXTINF:-1, DISCOVERY WORLD
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/102.m3u8
+#EXTINF:-1, E!
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/103.m3u8
+#EXTINF:-1, LIFETIME
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/104.m3u8
+#EXTINF:-1, DHE
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/107.m3u8
+#EXTINF:-1, 24/7 LA FAMILIA PELUCHE
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/108.m3u8
+#EXTINF:-1, DISNEY JR
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/109.m3u8
+#EXTINF:-1, NICKELODEON
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/110.m3u8
+#EXTINF:-1, AZTECA UNO -1HORA
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/111.m3u8
+#EXTINF:-1, NICK JR
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/112.m3u8
+#EXTINF:-1, 24/7 EL CHAPULIN
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/113.m3u8
+#EXTINF:-1, CARTOON NETWORK
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/114.m3u8
+#EXTINF:-1, CARTOONITO
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/115.m3u8
+#EXTINF:-1, TOONCAST
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/116.m3u8
+#EXTINF:-1, DISCOVERY KIDS
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/117.m3u8
+#EXTINF:-1, TELEMUNDO PUERTO RICO
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/118.m3u8
+#EXTINF:-1, AZTECA GUATEMALA
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/120.m3u8
+#EXTINF:-1, AZ CORAZON
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/122.m3u8
+#EXTINF:-1, TOP LATINO
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/123.m3u8
+#EXTINF:-1, AZ CLIC
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/127.m3u8
+#EXTINF:-1, HBO2
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/128.m3u8
+#EXTINF:-1, 24/7 DIGIMON
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/129.m3u8
+#EXTINF:-1, A3SERIES
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/130.m3u8
+#EXTINF:-1, NATGEO Mundo [ESPAÑOL/USA]
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/131.m3u8
+#EXTINF:-1, ONCE
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/132.m3u8
+#EXTINF:-1, DISCOVERY SCIENCE
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/139.m3u8
+#EXTINF:-1, 24/7 EL CHAVO
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/150.m3u8
+#EXTINF:-1, +A MÁS GUATEMALA
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/154.m3u8
+#EXTINF:-1, DW
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/170.m3u8
+#EXTINF:-1, UNIMAS [EAST]
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/179.m3u8
+#EXTINF:-1, 24/7 DRAGON BALL
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/191.m3u8
+#EXTINF:-1, RCN
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/193.m3u8
+#EXTINF:-1, CANAL N
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/197.m3u8
+#EXTINF:-1, 24/7
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/198.m3u8
+#EXTINF:-1, HBO+
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/208.m3u8
+#EXTINF:-1, Channel 209
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/209.m3u8
+#EXTINF:-1, History en Español [USA]
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/210.m3u8
+#EXTINF:-1, Sony One | ???
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/219.m3u8
+#EXTINF:-1, TELEHIT MUSICA PLUS
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/236.m3u8
+#EXTINF:-1, GOLDEN PREMIER2
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/237.m3u8
+#EXTINF:-1, HBO POP
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/250.m3u8
+#EXTINF:-1, DISCOVERY FAMILIA [USA]
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/262.m3u8
+#EXTINF:-1, TELEMUNDO NOTICIAS
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/271.m3u8
+#EXTINF:-1, AMERICA ARG
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/274.m3u8
+#EXTINF:-1, ODISEA | 4K
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/285.m3u8
+#EXTINF:-1, TELE TUYA
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/288.m3u8
+#EXTINF:-1, M+ ACCION
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/295.m3u8
+#EXTINF:-1, ANTENA3
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/300.m3u8
+#EXTINF:-1, RT
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/302.m3u8
+#EXTINF:-1, EXTREMA TV
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/319.m3u8
+#EXTINF:-1, 24/7 PITUFOS
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/329.m3u8
+#EXTINF:-1, Univision Tlnovelas
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/336.m3u8
+#EXTINF:-1, TELEMUNDO NOTICIAS 
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/347.m3u8
+#EXTINF:-1, DISNEY CHANNEL
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/353.m3u8
+#EXTINF:-1, 24/7 BEN 10
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/354.m3u8
+#EXTINF:-1, 24/7 CHESPRITO - YO NO ESCRIBO EN ESPAÑOL PERDÓN
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/355.m3u8
+#EXTINF:-1, 24/7
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/356.m3u8
+#EXTINF:-1, 24/7 EL CORRE CAMINOS
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/357.m3u8
+#EXTINF:-1, 24/7 PRINCE DEL RAP
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/358.m3u8
+#EXTINF:-1, ???
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/363.m3u8
+#EXTINF:-1, HBO FAMILY
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/365.m3u8
+#EXTINF:-1, DE PELICULA CLÁSICO
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/370.m3u8
+#EXTINF:-1, ECUAVISA
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/378.m3u8
+#EXTINF:-1, ADN40
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/382.m3u8
+#EXTINF:-1, MUSIC TOP
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/387.m3u8
+#EXTINF:-1, ATV
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/388.m3u8
+#EXTINF:-1, 24/7 LOS PICAPIEDRAS
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/398.m3u8
+EXTINF:-1, 24/7 BOB ESPONJA
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/404.m3u8
+#EXTINF:-1, TNT NOVELAS
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/415.m3u8
+#EXTINF:-1, UNIVERSAL CHANNEL
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/418.m3u8
+#EXTINF:-1, HOLA TV
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/427.m3u8
+#EXTINF:-1, 24/7 NOSOTROS LOS GUAPOS [VIX] (FAILED TO LOAD)
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/428.m3u8
+#EXTINF:-1, 24/7
+https://srdiegoiptvfast.alwaysdata.net/pagtv/telelatino/440.m3u8
