@@ -2374,8 +2374,8 @@ https://videohd.live:19360/8090/8090.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FDDBNt6WYAArZVM?format=jpg&name=4096x4096" group-title="TUCUMAN", CANAL 12 TUCUMAN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Zb5rRSMGsf6FupV9ln_4s5ItF-H_mnq_sirWIc3jab0NVjWKpUO0LWNhTS7K11xmyIDfZD_h=s48-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", Los Primeros Tucuman
-https://ythls.armelin.one/channel/UCf62XaF_MK2k2-wVggZ6kuw.m3u8
+#EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2024/04/A-New-Design.png" group-title="TUCUMAN", LA VOZ TUCUMAN
+https://lavozdetucuman.com/envivo.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ob2qAy4_BnP38nhRstDX6Js1yGIC6d7qHK4T6dWlCiN577QmDQz8RI2R6suRWMWGRVsihLEs=s176-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", PANC TV
 https://panel.host-live.com:19360/81500/81500.m3u8
@@ -2391,6 +2391,9 @@ https://videostream.shockmedia.com.ar:19360/rttvoficial/rttvoficial.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigiWsXaX5t91OcQbGYaGaEwGZfXUxpqmrGzDtZDkfmmbREUckcSycpUsPH8Tkv7K3y6Ch6M3wjdIto6rcxlMSYJ--gA245aHyOlFX1Vvb90vro7viKj7c4XCU1zGOpLhx-27nuwJcsYdI/s1600/logochicolargo2020+arreglada+.jpg" group-title="TUCUMAN", Metropolitana 93.5 FM
 https://panel.host-live.com/metropolitanafm/metropolitanafm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Zb5rRSMGsf6FupV9ln_4s5ItF-H_mnq_sirWIc3jab0NVjWKpUO0LWNhTS7K11xmyIDfZD_h=s48-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", Los Primeros Tucuman
+https://ythls.armelin.one/channel/UCf62XaF_MK2k2-wVggZ6kuw.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-tA30i615UkGDDL-NfvfMx8eV0LqTj3ely88Ijg8LsKe-y7FelHARDgjOsSsgtgt5Gf8sGvG=s176-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", LA GACETA PLAY
 https://ythls.armelin.one/channel/UCowbI8idnvQTl2sFxkOvnKw.m3u8 
