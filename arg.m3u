@@ -2020,7 +2020,7 @@ https://vivo.solumedia.com:19360/la105fm/la105fm.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tGe0VH_w0ptumT8Z-BY7U2fxxCNEtIsf4Tb8kOaoCJb5h5TRy78e_MWBc2CXO8bKWkCqCJGZuRA=s160-c-k-c0x00ffffff-no-rj" group-title="RIO NEGRO", CANAL 10 RIO NEGRO
 https://panel.host-live.com/tvrionegro/ngrp:tvrionegro_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://zerofm.com.ar/wp-content/uploads/2020/05/radiozero-200.png" group-title="RIO NEGRO", RADIO ZERO 94.5 FM CATRIEL
+#EXTINF:-1 tvg-logo="https://zerofm.com.ar/wp-content/uploads/2020/05/radiozero-200.png" group-title="RIO NEGRO", RADIO ZERO 94.5 FM CATRIEL  
 https://srv5.zcast.com.br/radiozero/radiozero/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4BJcl2NoRli5SEQT3N5CfTDOmtpZWgKhEizudiUxFz36tSzGBml2WNqj4g6AbUv9lRy3-22T=s176-c-k-c0x00ffffff-no-rj" group-title="RIO NEGRO", LCR
