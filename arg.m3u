@@ -2066,10 +2066,13 @@ https://panel.host-live.com/8126/8126/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b7b640_979e29e625374f56818318d29761e139~mv2.png/v1/fill/w_106,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20stv%202022%20png%20mosca.png" group-title="SALTA", SPACIO TV METAN SALTA
 https://stream.arcast.live/spaciotv/ngrp:spaciotv_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BmIhf8kYoobAlJbFrrdMKXDCaYmSwNnsXQT31wUD7wT342dw43uL-JWnPVH0-o4Jdhw=s180" group-title="SALTA", 12 TARTAGAL
+https://stream.arcast.host:8443/munitar/munitar/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.radiosalta.com.ar/assets/public/radio_salta.png" group-title="SALTA", RADIO SALTA 840
 https://vivo.solumedia.com:19360/radiosalta/radiosalta.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BmIhf8kYoobAlJbFrrdMKXDCaYmSwNnsXQT31wUD7wT342dw43uL-JWnPVH0-o4Jdhw=s180" group-title="SALTA", 12 TARTAGAL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC9hVqjhqBDvqwmquUaPrZ-5K7qQ36M8IzqA&s" group-title="SALTA", CIUDAD FM 88.1 TARTAGAL
 https://stream.arcast.host:8443/ciudadfm/ciudadfm.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wjHXPoBvtg6NXkti-2JxmC2FeDTMoVmmCZ1MubqcHseaJAzKdr4j-X45iln6q6Ow6NjkdGMxaw=s160-c-k-c0x00ffffff-no-rj" group-title="SALTA", Radio 947 Salta
