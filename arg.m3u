@@ -837,7 +837,8 @@ https://ythls.armelin.one/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQqZkqkHW3D4oDj5kPgt5TO9LJ3YEiu9Ye-ToJBnw=s176-c-k-c0x00ffffff-no-rjj" group-title="NOTICIAS INTERNACIONAL", Television Canaria
 https://ythls.armelin.one/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://world.kbs.co.kr/service/common/images/kbsworldlogo_png.png" group-title="NOTICIAS INTERNACIONAL", KBS
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0046
 
 
 
@@ -947,6 +948,13 @@ https://stmvideo3.livecastv.com/kidsbox/kidsbox/index.m3u8
 
 
 
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="AMBA", PROVINCIAL TV
 https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
 
@@ -994,6 +1002,10 @@ https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3de378_8d767ca44c814fbebb80ee05c368dadc~mv2.png/v1/fill/w_103,h_30,al_c,q_85,usm_2.00_1.00_0.00,enc_auto/Nuevo%20proyecto.png" group-title="AMBA", X LEVEL TV
 https://tv.portalexpress.es:3017/live/adminxlevellive.m3u8
+
+#EXTINF:-1 tvg-logo="https://perfectospekadores.com.ar/images/foto/6744c68a67c9f.webp" group-title="AMBA", Perfectos Pekadores
+https://stmv5.livecastv.com/perfectospekadores/perfectospekadores/1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://realpolitik.com.ar/uploads/cliente/marca/20180801093720_realpolitik-logo.svg" group-title="AMBA", REALPOLITIK LA PLATA
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
@@ -2729,7 +2741,7 @@ https://stream.vivotv.uy/hls/stream.m3u8
 http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hM1tpQ7lGzoKJgbZ1Fg0PZvS_PeypucTuMMTJvHYNT1DE-a44M_WSeIqOOG3bOK_TaSf=w240-h480" group-title="URUGUAY", Canal Más
-https://clientestv.bachistreaming.com:3721/multi_web/play.m3u8
+https://clientestv.bachistreaming.com:3721/multi_web/play.m3u8  
 
 
 
