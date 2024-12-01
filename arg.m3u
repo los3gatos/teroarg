@@ -191,7 +191,7 @@ http://190.11.130.46/mnp/construiriptv/output.mpd
 http://181.78.27.128:8000/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://yt3.googleusercontent.com/qiB2U_CZaAY_4IdZydkjJwMxnGCpr0v-tLoJmKrjG0KeqA3rLdj5hQ73jnOIjq2kmUcPajCvCTA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CANAL 26
-http://181.209.114.13:8000/play/a01r/index.m3u8
+http://181.13.173.86:8000/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="NOTICIAS NACIONALES", CRONICA HD 
 https://g4.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
@@ -200,10 +200,10 @@ https://g4.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TODO_NOTICIAS.jpg" group-title="NOTICIAS NACIONALES", TODO NOTICIAS  
-http://181.209.114.13:8000/play/a058/index.m3u8
+http://181.13.173.86:8000/play/a0ap/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/C5N.jpg" group-title="NOTICIAS NACIONALES", C5N
-http://181.209.114.13:8000/play/a01p/index.m3u8
+http://181.13.173.86:8000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/LA_NACION_%2B.jpg" group-title="NOTICIAS NACIONALES", LA NACION +    
 http://181.13.173.86:8000/play/a01s/index.m3u8
@@ -264,7 +264,6 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0005
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-1-021-UodM6pL9n0Lf5BGv-KuPFtAJHjXW7QjI8qrH8FIxkYnEqLf4Nf80NJqeEhAhHejkI=s48-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", DNews
 https://ythls.armelin.one/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/PUZaouBDWH1vPzIAzqIXsn8xx3M_SdIa4gxncu61_dE6FRDOXTDD0TRAj9Inp2vDr7oELMwHuA=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Ahora Play
 https://ythls.armelin.one/channel/UCRyGJcJYqqiCByEaUhDLMsw.m3u8
