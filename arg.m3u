@@ -1,7 +1,7 @@
 #EXTM3U    
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS 1
-https://raw.githubusercontent.com/mortal251/archivos_m3u8/refs/heads/main/1tyc.m3u8
+http://181.13.173.86:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS 
 http://181.78.27.128:8000/play/a063/index.m3u8
@@ -227,7 +227,7 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0021
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0075
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/OttUuKTaZLo0tUG6D9uG2_ZRIt7EaVN7_tVQIO4R3NHwb3QZdyBxK01CTn5JsOhVVdiAdUH2_nY=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Telefe Noticias
-https://raw.githubusercontent.com/mortal251/archivos_m3u8/refs/heads/main/tlfn.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0089
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1569312379703365637/fdzc1Tzz_400x400.jpg" group-title="NOTICIAS NACIONALES", RADIO MITRE AM 790
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0004
