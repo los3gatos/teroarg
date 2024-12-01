@@ -102,7 +102,7 @@ http://190.94.186.158:8000/play/a0bc/index.m3u8
 http://176.96.137.173:1234/stream/latino/bravotv/master.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/613px-Logo_del_canal_Encuentro.svg.png" group-title="NACIONALES", ENCUENTRO
-http://181.209.114.13:8000/play/a01m/index.m3u8
+http://181.78.27.128:8000/play/a04t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="NACIONALES" , CANAL DE LA CIUDAD
 http://181.13.173.86:8000/play/a06e/index.m3u8   
