@@ -1874,6 +1874,9 @@ https://streaming.jtamendoza.com/hls/test_hd720.m3u8
 #EXTINF:-1 tvg-logo="https://www.unidiversidad.com.ar/img/home/footer/Uni_logo_footer.svg" group-title="MENDOZA", SEÑAL U
 https://tvd.uncu.edu.ar/memfs/8f90310c-f1d6-46ff-9fa1-77f07ea80005_output_0.m3u8?session=VRQjcUZ84XoEHFjG6rUKcR
 
+#EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/http://8digital.com.ar/wp-content/uploads/2023/11/logo260.png" group-title="MENDOZA", 8 DIGITAL VALLE DE UCO
+https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.otrasvocestv.com.ar/wp-content/uploads/2021/01/wprs.png" group-title="MENDOZA", OTRAS VOCES TV
 https://vivo.solumedia.com:19360/otrasvoces/otrasvoces.m3u8
 
