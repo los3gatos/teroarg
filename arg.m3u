@@ -1670,7 +1670,7 @@ https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_ELONCE_Paran%C3%A1.png/600px-Logo_ELONCE_Paran%C3%A1.png" group-title="ENTRE RIOS", ONCE TV PARANA
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0246
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0249
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_9_Litoral_2021.png/133px-Canal_9_Litoral_2021.png" group-title="ENTRE RIOS", CANAL 9 PARANA
 https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8
@@ -1863,7 +1863,7 @@ https://stmvideo1.livecastv.com/libertad/libertad/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2019/07/logo_7_1.png" group-title="MENDOZA", EL SIETE MENDOZA
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0274
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0275
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA", CANAL 9 MENDOZA
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
@@ -2050,7 +2050,7 @@ https://inliveserver.com:1936/12018/12018/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Elonce_TV_Salta.png/640px-Elonce_TV_Salta.png" group-title="SALTA", EL ONCE TV SALTA
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0322
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0323
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-4uuTlgBxIrI/T-8fuime0xI/AAAAAAAAAu0/az3W_0QE8Aw/s1600/canal2.jpg" group-title="SALTA", CANAL 2 SALTA
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
@@ -2096,10 +2096,10 @@ https://ythls.armelin.one/channel/UClRhjsbjqqUnGP_SvBQrxGg.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" group-title="SAN JUAN", CANAL 8 SAN JUAN 
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0338
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0341
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/C13sjlogo.svg/revision/latest/scale-to-width-down/175?cb=20210526222043&path-prefix=es" group-title="SAN JUAN", CANAL 13 SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0337
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0340
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Channel_4_logo_%28San_Juan%2C_Argentina%29_.png/133px-Channel_4_logo_%28San_Juan%2C_Argentina%29_.png" group-title="SAN JUAN", CANAL 4 SAN JUAN
 http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
@@ -2214,10 +2214,10 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 https://ythls.armelin.one/channel/UCW1sJwBOGgPhSPXJ-6pjF6w.m3u8 
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0374
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0375
 
 #EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://pbs.twimg.com/profile_images/1669538372061208579/Wibfqd9H_400x400.jpg" group-title="SANTA FE", TELEFE SANTA FE
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0383
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0384
 
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/9730866.jpg" group-title="SANTA FE", CANAL LUZ
 https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p/index.m3u8  
@@ -2373,10 +2373,10 @@ https://ythls.armelin.one/channel/UCAndrmynDfyUjGjzEHOIsaA.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBPkoMgNeNKLxEvCJoh6Zlms2uYE05yG53weTL1Oivm_VRyDtNleO9gf1oKgY4cTHYpFA&usqp=CAU" group-title="TUCUMAN", EL OCHO TUCUMAN
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0405 
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0406 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVE4QANzgXzGz73LJphirPDunehTTXLwO7QOPPhtQ=s88-c-k-c0x00ffffff-no-rj"  group-title="TUCUMAN", AMERICA TUCUMAN
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0408
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0409
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1097897648948948992/bS8JOGDt_400x400.png" group-title="TUCUMAN", CANAL 5 TUCUMAN
 https://videohd.live:19360/8090/8090.m3u8
