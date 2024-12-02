@@ -972,6 +972,9 @@ https://panel.host-live.com/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo_Canales_Somos_de_Cablevisi%C3%B3n.png" group-title="AMBA", SOMOS AMBA
 http://45.5.151.151:8000/play/a0lk/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.canal4teleaire.com.ar/wp-content/uploads/2022/07/logo-canal-4.png" group-title="AMBA", CANAL 4 TELEAIRE
+https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.paste.pics/bc45740f1e3774c663644d7488cfee08.png" group-title="AMBA", Urbana TeVe 32.2
 https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
 
@@ -998,7 +1001,6 @@ https://tv.portalexpress.es:3017/live/adminxlevellive.m3u8
 
 #EXTINF:-1 tvg-logo="https://perfectospekadores.com.ar/images/foto/6744c68a67c9f.webp" group-title="AMBA", Perfectos Pekadores
 https://stmv5.livecastv.com/perfectospekadores/perfectospekadores/1.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://realpolitik.com.ar/uploads/cliente/marca/20180801093720_realpolitik-logo.svg" group-title="AMBA", REALPOLITIK LA PLATA
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
@@ -1107,7 +1109,6 @@ https://ythls.armelin.one/channel/UCAlQ5f7mhnkfM6jjXeJDw7g.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/lbuMH0aEalHh_WqO-aOuPwU3JawaadpR8vU1GaRIzzYlXwbaQQoTEIhgTNIdvFKa2s_AREmQePQ=s48-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Futurock FM
 https://ythls.armelin.one/channel/UCgn6r0aGRBnEQm02tE_jzbw.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/W2KdC8bXe-lXWS7ki5lcoW9cJ_59kNiiiMmCvbfU6pM6Dj1lLVoRZmanBdJ3oXcVzzUbhymr2A=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", VORTERIX - 92.1 FM
 https://g3.vxral-hor.transport.edge-access.net/b04/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
