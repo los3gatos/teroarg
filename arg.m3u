@@ -1694,6 +1694,9 @@ https://vivo.solumedia.com:19360/rmuenvivo/rmuenvivo.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JNodbQCAQfgECDfw5TwZt2H7F-dzLs81Ta7BEnECbxaQLJNQVLEbWXswRVg3ApwI9vRORZSaJIc=s176-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", ITEL CHAJARI ENTRE RIOS
 http://66.128.32.245/output/iteltv/track_2_4500/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JNodbQCAQfgECDfw5TwZt2H7F-dzLs81Ta7BEnECbxaQLJNQVLEbWXswRVg3ApwI9vRORZSaJIc=s176-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", ITEL CHAJARI ENTRE RIOS
+https://proxystream.iteltv.com.ar/output/iteltv/track_2_4500/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://noticiasgualeguay.com/wp-content/uploads/2019/09/logocanal2-x2.png" group-title="ENTRE RIOS", CANAL 2 GUALEGUAY ENTRE RIOS
 https://stream.arcast.host:8443/gualeguay/gualeguay/playlist.m3u8
 
@@ -1729,6 +1732,9 @@ https://panel.host-live.com:19360/municipalidadparana/municipalidadparana.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiolatina.ar/wp-content/uploads/2022/02/radiolatinalogo.png" group-title="ENTRE RIOS", LATINA 87.5 FM PARANA
 https://cs1.xcast.com.br/7546/7546/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fmradiocristal.com.ar/wp-content/uploads/2024/01/faroles3-72p-e1706111437126.png" group-title="ENTRE RIOS", FM CRISTAL 94.9 FM - BOVRIL
+https://5f700d5b2c46f.streamlock.net/cristal/cristal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio7899_1457012436.jpg" group-title="ENTRE RIOS", PLANET 95.1 FM PARANA
 https://cs1.xcast.com.br/8884/8884/playlist.m3u8
