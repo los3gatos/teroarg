@@ -1,1 +1,102 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="UNIVERSAL_CHANNEL" tvg-id="UNIVERSAL_CHANNEL",UNIVERSAL_CHANNEL
+http://190.246.189.24/UNIVERSAL_CHANNEL/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="TNT_HD" tvg-id="TNT_HD",TNT_HD
+http://190.246.189.24/TNT_HD/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="CINECANAL_HD" tvg-id="CINECANAL_HD",CINECANAL_HD
+http://190.246.189.24/CINECANAL_HD/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="STUDIO_UNIVERSAL_HD" tvg-id="STUDIO_UNIVERSAL_HD",STUDIO_UNIVERSAL_HD
+http://190.246.189.24/STUDIO_UNIVERSAL_HD/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="CINE_PREMIUM" tvg-id="CINE_PREMIUM",CINE_PREMIUM
+http://190.246.189.24/CINE_PREMIUM/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="CINE_FAMILIAR_HD" tvg-id="CINE_FAMILIAR_HD",CINE_FAMILIAR_HD
+http://190.246.189.24/CINE_FAMILIAR_HD/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="CINE_HISPANO_HD" tvg-id="CINE_HISPANO_HD",CINE_HISPANO_HD
+http://190.246.189.24/CINE_HISPANO_HD/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="FX_HD" tvg-id="FX_HD",FX_HD
+http://190.246.189.24/FX_HD/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="LIFETIME_HD" tvg-id="LIFETIME_HD",LIFETIME_HD
+http://190.246.189.24/LIFETIME_HD/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="MUSIC_TOP_HD" tvg-id="MUSIC_TOP_HD",MUSIC_TOP_HD
+http://190.246.189.24/MUSIC_TOP_HD/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="SONY_CHANNEL" tvg-id="SONY_CHANNEL",SONY_CHANNEL
+http://190.246.189.24/SONY_CHANNEL/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="HISTORY_CHANNEL" tvg-id="HISTORY_CHANNEL",HISTORY_CHANNEL
+http://190.246.189.24/HISTORY_CHANNEL/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="SONY_MOVIES" tvg-id="SONY_MOVIES",SONY_MOVIES
+http://190.246.189.24/SONY_MOVIES/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="HBO" tvg-id="HBO",HBO
+http://190.246.189.24/HBO/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="HBO_POP" tvg-id="HBO_POP",HBO_POP
+http://190.246.189.24/HBO_POP/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="HBO_PLUS" tvg-id="HBO_PLUS",HBO_PLUS
+http://190.246.189.24/HBO_PLUS/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="HBO2" tvg-id="HBO2",HBO2
+http://190.246.189.24/HBO2/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="HBO_FAMILY" tvg-id="HBO_FAMILY",HBO_FAMILY
+http://190.246.189.24/HBO_FAMILY/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="HBO_XTREME" tvg-id="HBO_XTREME",HBO_XTREME
+http://190.246.189.24/HBO_XTREME/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="HBO_MUNDI" tvg-id="HBO_MUNDI",HBO_MUNDI
+http://190.246.189.24/HBO_MUNDI/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="HBO_SIGNATURE" tvg-id="HBO_SIGNATURE",HBO_SIGNATURE
+http://190.246.189.24/HBO_SIGNATURE/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="DISCOVERY_HD" tvg-id="DISCOVERY_HD",DISCOVERY_HD
+http://190.246.189.24/DISCOVERY_HD/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="DISCOVERY_WORLD" tvg-id="DISCOVERY_WORLD",DISCOVERY_WORLD
+http://190.246.189.24/DISCOVERY_WORLD/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="DISCOVERY_THEATER_HD" tvg-id="DISCOVERY_THEATER_HD",DISCOVERY_THEATER_HD
+http://190.246.189.24/DISCOVERY_THEATER_HD/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="AE_HD" tvg-id="AE_HD",AE_HD
+http://190.246.189.24/AE_HD/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="PARAMOUNT_HD" tvg-id="PARAMOUNT_HD",PARAMOUNT_HD
+http://190.246.189.24/PARAMOUNT_HD/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="AXN_HD" tvg-id="AXN_HD",AXN_HD
+http://190.246.189.24/AXN_HD/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="SPACE_HD" tvg-id="SPACE_HD",SPACE_HD
+http://190.246.189.24/SPACE_HD/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="DHE" tvg-id="DHE",DHE
+http://190.246.189.24/DHE/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="CINEMAX_HD" tvg-id="CINEMAX_HD",CINEMAX_HD
+http://190.246.189.24/CINEMAX_HD/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="DISC_HOMEANDHEALTH_HD" tvg-id="DISC_HOMEANDHEALTH_HD",DISC_HOMEANDHEALTH_HD
+http://190.246.189.24/DISC_HOMEANDHEALTH_HD/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="MI_MUSICA_REGGAETON" tvg-id="MI_MUSICA_REGGAETON",MI_MUSICA_REGGAETON
+http://190.246.189.24/MI_MUSICA_REGGAETON/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="ESPN_HD" tvg-id="ESPN_HD",ESPN_HD
+http://190.246.189.24/ESPN_HD/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="ESPN2" tvg-id="ESPN2",ESPN2
+http://190.246.189.24/ESPN2/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="ESPN3" tvg-id="ESPN3",ESPN3
+http://190.246.189.24/ESPN3/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="FOX_SPORTS" tvg-id="FOX_SPORTS",FOX_SPORTS
+http://190.246.189.24/FOX_SPORTS/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="FOX_SPORTS2" tvg-id="FOX_SPORTS2",FOX_SPORTS2
+http://190.246.189.24/FOX_SPORTS2/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="FOX_SPORTS3" tvg-id="FOX_SPORTS3",FOX_SPORTS3
+http://190.246.189.24/FOX_SPORTS3/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="ESPN_PREMIUM" tvg-id="ESPN_PREMIUM",ESPN_PREMIUM
+http://190.246.189.24/ESPN_PREMIUM/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="TNT_SPORTS_HD" tvg-id="TNT_SPORTS_HD",TNT_SPORTS_HD
+http://190.246.189.24/TNT_SPORTS_HD/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="TV_PUBLICA_HD" tvg-id="TV_PUBLICA_HD",TV_PUBLICA_HD
+http://190.246.189.24/TV_PUBLICA_HD/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="CANAL_26" tvg-id="CANAL_26",CANAL_26
+http://190.246.189.24/CANAL_26/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="EL_TRECE" tvg-id="EL_TRECE",EL_TRECE
+http://190.246.189.24/EL_TRECE/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="EL_NUEVE" tvg-id="EL_NUEVE",EL_NUEVE
+http://190.246.189.24/EL_NUEVE/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="TN" tvg-id="TN",TN
+http://190.246.189.24/TN/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="TELEFE" tvg-id="TELEFE",TELEFE
+http://190.246.189.24/TELEFE/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="C5N" tvg-id="C5N",C5N
+http://190.246.189.24/C5N/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="CRONICA_TV" tvg-id="CRONICA_TV",CRONICA_TV
+http://190.246.189.24/CRONICA_TV/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="LN_MAS" tvg-id="LN_MAS",LN_MAS
+http://190.246.189.24/LN_MAS/video.m3u8?token=KMqO0mfYcwYlO1
+#EXTINF:-1 tvg-name="A24" tvg-id="A24",A24
+http://190.246.189.24/A24/video.m3u8?token=KMqO0mfYcwYlO1
 
