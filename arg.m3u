@@ -499,7 +499,6 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 
 
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", AE Mundo
 http://181.78.27.128:8000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.0" group-title="LATINO TV", ATV
@@ -2755,6 +2754,27 @@ http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hM1tpQ7lGzoKJgbZ1Fg0PZvS_PeypucTuMMTJvHYNT1DE-a44M_WSeIqOOG3bOK_TaSf=w240-h480" group-title="URUGUAY", Canal Más
 https://clientestv.bachistreaming.com:3721/multi_web/play.m3u8  
+
+
+
+#EXTINF:-1 tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png" group-title="ZOY TV BOLIVIA", ZOY TV TURCAS
+https://fl1004.bozztv.com/ssh101/zoytvturcas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png" group-title="ZOY TV BOLIVIA", ZOY TV PLUS
+https://fl1004.bozztv.com/ssh101/zoytv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png" group-title="ZOY TV BOLIVIA", ZOY TV MUSICA
+https://giatv.bozztv.com/giatvplayout/giatv-208557/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png" group-title="ZOY TV BOLIVIA", ZOY TV PITUFOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444
+#EXTINF:-1 tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png" group-title="ZOY TV BOLIVIA", ZOY TV SPORT 1
+https://fl1004.bozztv.com/ssh101/zoytvsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png" group-title="ZOY TV BOLIVIA", ZOY TV SPORT 2
+https://fl1004.bozztv.com/ssh101/zoytvsports2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png" group-title="ZOY TV BOLIVIA", ZOY TV SPORT 3
+https://fl1004.bozztv.com/ssh101/zoytvsports3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png" group-title="ZOY TV BOLIVIA", ZOY TV SPORT 4
+https://fl1004.bozztv.com/ssh101/zoytvsports4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png" group-title="ZOY TV BOLIVIA", ZOY TV SPORT 5
+https://fl1004.bozztv.com/ssh101/zoytvsports5/tracks-v1a1/mono.m3u8
 
 
 
