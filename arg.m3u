@@ -1745,6 +1745,9 @@ https://inliveserver.com:1936/9028/9028/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/tOutn2AAanKRwVvKcECFHxcvIiTa1rbC59v2yGt_h3RBBkQj06GbIpFSnl3a4wFb14GkcZke3g=s176-c-k-c0x00ffffff-no-rj-mo" group-title="ENTRE RIOS", Somos Gualeguaychu
 https://tv.streamcasthd.com:3357/live/almagauchatvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://plazaweb.com.ar/wp-content/uploads/2023/07/plaza-x1-300x65.png" group-title="ENTRE RIOS", Plaza 94.7 FM Paraná
+https://stream.arcast.net:4443/plazavideo/ngrp:plazavideo_all/playlist.m3u8
+
 
 
 
@@ -4165,6 +4168,10 @@ https://ythls.armelin.one/channel/UCOEfC01xcEN2e_Dju2MP88Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/845676050470371329/r_9D6hXw_400x400.jpg" group-title="ENTRE RIOS", FM DEL EXODO 88.5 - NOGOYA
 https://ythls.armelin.one/channel/UCapnd7dvjhAckdgX2ostj3g.m3u8
+
+#EXTINF:-1 tvg-logo="https://paraleloturistico.com.ar/wp_paraleloturistico/wp-content/uploads/2022/05/logo.png" group-title="ENTRE RIOS", PARALELO TURISTICO
+https://ythls.armelin.one/channel/UCadej_nHAg5tvm3Ff77g3fQ.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJV402YRaAG3orjwhyhjntvRD5_e1cuK0L81dxMKUA=s176-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", Tele5 Digital
 https://ythls.armelin.one/channel/UC5lUjiuS_elD_bnWgVW3_JQ.m3u8
