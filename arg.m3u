@@ -2414,6 +2414,9 @@ https://ssh101.bozztv.com/ssh101/tvhd211/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n0Ac5Y1AdeH_YiOcQVLPNTLwkZeltURKPlLSIl9VKlDQ=s900-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", 7 NORTE TV
 https://ntvcanal7.ddns.net:81/dash/stream.mpd
 
+#EXTINF:-1 tvg-logo="https://solivetv.net/wp-content/uploads/2020/09/cropped-logo2.png" group-title="TUCUMAN", SOLIVE TV
+https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRK363.png" group-title="TUCUMAN", Mi 92.7 FM Tucuman
 https://videostream.shockmedia.com.ar:19360/rttvoficial/rttvoficial.m3u8
 
