@@ -1039,7 +1039,11 @@ https://tv.streamcasthd.com:3536/live/siontvlive.m3u8
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1620_Monte_Grande.png" group-title="AMBA", MONTE GRANDE TELEVISION
-https://fl1002.bozztv.com/ssh101/montegrandetv/tracks-v1a1/mono.m3u8?WebM3UCL
+https://fl1002.bozztv.com/ssh101/montegrandetv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lavozargentina.tv/assets/images/logolavozargentina.png" group-title="AMBA", LA VOZ ARGENTINA
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/lavozargentina/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_npWJ8k6oWxC9-BYXB6IANAnxtTsWY8MKLgBdxBHF8N190=s160-c-k-c0x00ffffff-no-rj" group-title="AMBA", TELEVISION 33
 https://tuvideoonline.com.ar:3703/stream/play.m3u8
