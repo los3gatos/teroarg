@@ -99,7 +99,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 http://190.94.186.158:8000/play/a0bc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5yCPV36WLATWGEgkWv6h3D/5cc84285f9792100a4444091ddd3999b/07_BRAVO-TV-entretenimiento.png?fm=webp&q=80" group-title="NACIONALES" , BRAVO TV
-http://176.96.137.173:1234/stream/claro_cfg/bravotv/master.m3u8
+http://176.96.137.173:1234/stream/latino/bravotv/master.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/613px-Logo_del_canal_Encuentro.svg.png" group-title="NACIONALES", ENCUENTRO
 http://181.78.27.128:8000/play/a04t/index.m3u8
