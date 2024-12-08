@@ -2779,8 +2779,22 @@ https://fl1004.bozztv.com/ssh101/zoytvsports5/tracks-v1a1/mono.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="SEO TV BOLIVIA", SEO TV 1
+https://seo.tv.bo/tv/IPSEO-TV-1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="SEO TV BOLIVIA", SEO TV KIDS
+https://seo.tv.bo/tv/IPSEO-TV-2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="SEO TV BOLIVIA", SEO TV NOVELAS
+https://seo.tv.bo/tv/IPSEO-TV-3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="SEO TV BOLIVIA", SEO TV PELICULAS
+https://seo.tv.bo/tv/IPSEO-TV-4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="SEO TV BOLIVIA", SEO TV DEPORTES
+https://seo.tv.bo/tv/IPSEO-TV-5.1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="SEO TV BOLIVIA", SEO TV DEPORTES 2
+https://seo.tv.bo/tv/IPSEO-TV-5.2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="SEO TV BOLIVIA", SEO TV YUNGAS
+https://seo.tv.bo/tv/IPSEO-TV-7.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="SEO TV BOLIVIA", SEO TV TROPICO
+https://seo.tv.bo/tv/IPSEO-TV-8.m3u8
 
 
 
