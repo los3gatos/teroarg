@@ -101,6 +101,9 @@ http://190.94.186.158:8000/play/a0bc/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5yCPV36WLATWGEgkWv6h3D/5cc84285f9792100a4444091ddd3999b/07_BRAVO-TV-entretenimiento.png?fm=webp&q=80" group-title="NACIONALES" , BRAVO TV
 http://176.96.137.173:1234/stream/latino/bravotv/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cronica.com.ar/__export/1727795734333/sites/cronica/img/2024/10/01/whatsapp_image_2024-10-01_at_11.png_1480801792.png" group-title="NACIONALES" , GRAN HERMANO
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/granhermano/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/613px-Logo_del_canal_Encuentro.svg.png" group-title="NACIONALES", ENCUENTRO
 http://181.78.27.128:8000/play/a04t/index.m3u8
 
