@@ -2373,7 +2373,8 @@ https://ythls.armelin.one/channel/UCAndrmynDfyUjGjzEHOIsaA.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBPkoMgNeNKLxEvCJoh6Zlms2uYE05yG53weTL1Oivm_VRyDtNleO9gf1oKgY4cTHYpFA&usqp=CAU" group-title="TUCUMAN", EL OCHO TUCUMAN
+https://github.com/azgaresncf/strm2hls/raw/refs/heads/main/streams/elocho.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBPkoMgNeNKLxEvCJoh6Zlms2uYE05yG53weTL1Oivm_VRyDtNleO9gf1oKgY4cTHYpFA&usqp=CAU" group-title="TUCUMAN", EL OCHO TUCUMAN
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0406
