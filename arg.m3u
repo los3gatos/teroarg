@@ -102,7 +102,7 @@ http://190.94.186.158:8000/play/a0bc/index.m3u8
 http://176.96.137.173:1234/stream/latino/bravotv/master.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/613px-Logo_del_canal_Encuentro.svg.png" group-title="NACIONALES", ENCUENTRO
-http://181.78.27.128:8000/play/a04t/index.m3u8
+http://181.209.95.29:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="NACIONALES" , CANAL DE LA CIUDAD
 http://181.13.173.86:8000/play/a06e/index.m3u8   
@@ -114,7 +114,7 @@ https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/playlist.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/512px-Paka-paka.svg.png" group-title="NACIONALES", PAKA PAKA
-http://181.78.27.128:8000/play/a04x/index.m3u8
+http://181.13.173.86:8000/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinear.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/cine-ar.png" group-title="NACIONALES", CINEAR
 http://181.13.173.86:8000/play/a024/index.m3u8
@@ -249,7 +249,6 @@ https://ythls.armelin.one/channel/UCgcUYL6ODQniPuwD4N-Tlvg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/dRPKP2NvjrovVP4NXIqLfwP6bwL3vytK-q8wNfwpBLNIHx80iWb_CadYb2n24Hu7FBowKZCl=s48-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Somos Radio AM 530
 https://ythls.armelin.one/channel/UCN3gx_z62nxCeFIkaK2HbrA.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://amdelplata.com/wp-content/uploads/2023/08/logo-negativo.png" group-title="NOTICIAS NACIONALES", RADIO DEL PLATA AM 1030
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0007
