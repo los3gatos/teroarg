@@ -345,18 +345,18 @@ http://176.96.137.173:1234/stream/latino/world/master.m3u8
 
 
 
-ARG 2  http://181.209.114.13:8000/play
-ARG 3  http://181.13.252.102:8000/play
-ARG 4  http://181.78.27.128:8000/play
-ARG 5  http://187.102.208.83:50000/play
-ARG 6  http://181.13.173.86:8000/play
-ARG 7  http://38.188.100.27:8000/play
-ARG 8  http://181.209.95.29:8000/play
-ARG 9  http://216.244.200.34:8000/play
-ARG 90 http://190.123.90.146:8000/play
-ARG 91 http://190.94.186.158:8000/play
-ARG 92 http://45.5.151.151:8000/play
-ARG 96 http://200.26.177.54:8000/play
-ARG 97 http://200.121.48.17:8000/play
+ARG 2  http://181.209.114.13:8000/playlist.m3u
+ARG 3  http://181.13.252.102:8000/playlist.m3u
+ARG 4  http://181.78.27.128:8000/playlist.m3u
+ARG 5  http://187.102.208.83:50000/playlist.m3u
+ARG 6  http://181.13.173.86:8000/playlist.m3u
+ARG 7  http://38.188.100.27:8000/playlist.m3u
+ARG 8  http://181.209.95.29:8000/playlist.m3u
+ARG 9  http://216.244.200.34:8000/playlist.m3u
+ARG 90 http://190.123.90.146:8000/playlist.m3u
+ARG 91 http://190.94.186.158:8000/playlist.m3u
+ARG 92 http://45.5.151.151:8000/playlist.m3u
+ARG 96 http://200.26.177.54:8000/playlist.m3u
+ARG 97 http://200.121.48.17:8000/playlist.m3u
 
 
