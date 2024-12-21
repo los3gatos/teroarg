@@ -3,8 +3,9 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="bravo", bravo
 
-
+http://45.65.112.215:12000/play/a03d/index.m3u8
 
 
 
@@ -29,14 +30,6 @@ http://cem02.cdn.rcs.net.ar/mnp/a24/output.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS 
-http://38.188.100.27:8000/play/a05m/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/07/file-1-1.png" group-title="Tango Sports", DSPORTS 2 
-http://38.188.100.27:8000/play/a065/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/07/cro1a9IIVYYF0rH8hOn08-transformed.png" group-title="Tango Sports", DSPORTS PLUS HD
-http://38.188.100.27:8000/play/a066/index.m3u8
 
 
 
