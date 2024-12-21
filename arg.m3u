@@ -1486,8 +1486,7 @@ https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalU.ar" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTCMox85yr7_fh6Rec0Nto5dJoZRvAF7OJnq9AR=s176-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", CANAL U CORDOBA
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LV3.png" group-title="CORDOBA", CADENA 3 CORDOBA
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0209
+
 
 #EXTINF:-1 tvg-logo="https://radiomaria.org.ar/contenido/themes/radioMaria2019/imgs/logo-rm-footer.png" group-title="CORDOBA", RADIO MARIA TV
 https://5f700d5b2c46f.streamlock.net/maria720/maria720/chunklist_w2053024275_DVR.m3u8
@@ -1500,6 +1499,9 @@ http://190.123.90.146:8000/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-294x165-FFFFFF.jpg" group-title="CORDOBA", CIUDAD MAGICA TV
 https://stmv4.voxtvhd.com.br/cdadmagicatv/cdadmagicatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJrselDdJk1aM5h4mHQrYvzPC0GBTDf6Pzs_K9yjb31naAlfi3Z8WTjtZEvUI1v5uokgbkqiyKj7RDCpe-LDYE_kvuJtH6SPetgZf6oXnv-P5YiZAr-wKwP1PEc79Q61eOFHNLppYy4SKNqGJ1gcfcBQJEWUozgss3lkpyxjpINRYhzU30eb9zMfpvkmI/s200-rw/%5Bremoval.ai%5D_66e04c8a-72c5-4a53-952d-de3df99ce476-alegria-tv.png" group-title="CORDOBA", ALEGRIA TV
+https://videostream.shockmedia.com.ar:19360/cadenaalegriafm/cadenaalegriafm.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2020/12/somos-villa-maria.jpg" group-title="CORDOBA", SOMOS VILLA MARIA
 https://stream.arcast.net:4443/villamaria/villamaria/playlist.m3u8
