@@ -1836,7 +1836,7 @@ https://cdn.sensa.com.ar/output/CORPICO/TVCOh/playlist.m3u8
 https://inliveserver.com:1936/12014/12014/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.fenix951.com.ar/nuevo_2013/a2017/assets/imgapp/logocanal.jpeg" group-title="LA RIOJA", FENIX LA RIOJA
-https://stmvideo3.livecastv.com/fenixrioja/fenixrioja/playlist.m3u8
+https://stmv5.livecastv.com/fenixrioja/fenixrioja/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png" group-title="LA RIOJA", CANAL 13 LA RIOJA
 https://stream.arcast.net:4443/mp/mp/playlist.m3u8
