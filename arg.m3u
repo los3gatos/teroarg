@@ -235,41 +235,41 @@ http://200.121.48.17:8000/play/a06x/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/OttUuKTaZLo0tUG6D9uG2_ZRIt7EaVN7_tVQIO4R3NHwb3QZdyBxK01CTn5JsOhVVdiAdUH2_nY=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Telefe Noticias
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0087
 
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1569312379703365637/fdzc1Tzz_400x400.jpg" group-title="NOTICIAS NACIONALES", RADIO MITRE AM 790
+#EXTINF:-1 group-title="NOTICIAS NACIONALES", RADIO MITRE AM 790
 https://www.youtube.com/watch?v=90Q8buaTSes
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Radio_Rivadavia_%282020%29.png/800px-Radio_Rivadavia_%282020%29.png" group-title="NOTICIAS NACIONALES", RADIO RIVADAVIA AM 630
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0002
+#EXTINF:-1 group-title="NOTICIAS NACIONALES", RADIO RIVADAVIA AM 630
+https://www.youtube.com/watch?v=eAAOGaSsm74
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS4.png" group-title="NOTICIAS NACIONALES", RADIO CONTINENTAL AM 590
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0001
+#EXTINF:-1 group-title="NOTICIAS NACIONALES", RADIO CONTINENTAL AM 590
+https://www.youtube.com/watch?v=3acaX5qfyDI
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSo4E3AmMf9dG0_zSdeN9VRYH8qz9J9V85rw&s" group-title="NOTICIAS NACIONALES", RADIO 10 AM 710
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0003
+#EXTINF:-1 group-title="NOTICIAS NACIONALES", RADIO 10 AM 710
+https://www.youtube.com/watch?v=gerHxdGD928
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JxTyO3fqqzmDMpm3NVF8wEZuuyGdJGlYHo4kSjo9BwGEZmuHL5rq3GhMbAjNHb82v20FId6AdQ=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Radio La Red AM 910
-https://ythls.armelin.one/channel/UCs1U5lRXvUJHn0CgXI6oXAw.m3u8
+#EXTINF:-1 group-title="NOTICIAS NACIONALES", Radio La Red AM 910
+https://www.youtube.com/watch?v=w68z5lKOBEs
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JAFTwg3ZoLX18I-XOlJPqA3VYP2wKuYrAI9N409lphAHgJfBDV4b2W6-Y7mr7-lHFWwF5zo58g=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Radio Nacional Argentina AM870
+#EXTINF:-1 group-title="NOTICIAS NACIONALES", Radio Nacional Argentina AM870
 https://ythls.armelin.one/channel/UCgcUYL6ODQniPuwD4N-Tlvg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/dRPKP2NvjrovVP4NXIqLfwP6bwL3vytK-q8wNfwpBLNIHx80iWb_CadYb2n24Hu7FBowKZCl=s48-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Somos Radio AM 530
-https://ythls.armelin.one/channel/UCN3gx_z62nxCeFIkaK2HbrA.m3u8   
+https://www.youtube.com/watch?v=n9hPLIau00s
 
-#EXTINF:-1 tvg-logo="https://amdelplata.com/wp-content/uploads/2023/08/logo-negativo.png" group-title="NOTICIAS NACIONALES", RADIO DEL PLATA AM 1030
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0007
+#EXTINF:-1 group-title="NOTICIAS NACIONALES", RADIO DEL PLATA AM 1030
+https://www.youtube.com/watch?v=DhchiT9RU_8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GmKYEDNukShC6vUJU-drXQMkllMCZK184gRIMBulv41Z0suNzAw-uwhY6ViGlDh07oAcORvp=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Observador 107.9 FM
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0022
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/j4t5hEoHBnlm_a7wiArlgkSYC7cU5W0gSPCWG3IWsu5zQrCuinV3PL57bFP8FVwKJEaR621ZXw=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", DIPUTADOS TV 
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0100
+#EXTINF:-1 group-title="NOTICIAS NACIONALES", DIPUTADOS TV 
+https://www.youtube.com/watch?v=jDcTn1BQrkY
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xK2UU-mjcRno8NcJSFnE9VRaIY_-TRaKNa3Nkyca7ZMxUeFrIIZGk9YsltI64rdmaHgyOQowFg=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Radio Splendid AM 990
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0005
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-1-021-UodM6pL9n0Lf5BGv-KuPFtAJHjXW7QjI8qrH8FIxkYnEqLf4Nf80NJqeEhAhHejkI=s48-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", DNews
-https://ythls.armelin.one/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8
+#EXTINF:-1 group-title="NOTICIAS NACIONALES", DNews
+https://www.youtube.com/watch?v=J4v5S6SCS70
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/PUZaouBDWH1vPzIAzqIXsn8xx3M_SdIa4gxncu61_dE6FRDOXTDD0TRAj9Inp2vDr7oELMwHuA=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Ahora Play
 https://ythls.armelin.one/channel/UCRyGJcJYqqiCByEaUhDLMsw.m3u8
