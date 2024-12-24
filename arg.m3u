@@ -232,8 +232,8 @@ http://200.121.48.17:8000/play/a08p/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lq90qVBWRaNJxcH70Jlko05VWx2iwDf8vL4jGMJ5MnmCs=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Destape TV 
 http://200.121.48.17:8000/play/a06x/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/OttUuKTaZLo0tUG6D9uG2_ZRIt7EaVN7_tVQIO4R3NHwb3QZdyBxK01CTn5JsOhVVdiAdUH2_nY=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Telefe Noticias
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0087
+#EXTINF:-1 group-title="NOTICIAS NACIONALES", Telefe Noticias
+https://www.youtube.com/watch?v=MocwNxD7WJk
 
 #EXTINF:-1 group-title="NOTICIAS NACIONALES", RADIO MITRE AM 790
 https://www.youtube.com/watch?v=90Q8buaTSes
