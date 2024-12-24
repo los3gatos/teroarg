@@ -194,7 +194,7 @@ http://190.11.130.46/mnp/construiriptv/output.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://yt3.googleusercontent.com/XUCrrfOiBttJx_e732pxNQqAZxeUlDEaU4NFo7sPdn8sOA2C32vjOMD8LldSIrejWIDu15qV=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", IP NOTICIAS
-https://ythls.armelin.one/channel/UC1bBjOZieJWHbsFA0LwjjJA.m3u8
+http://181.78.27.128:8000/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://yt3.googleusercontent.com/qiB2U_CZaAY_4IdZydkjJwMxnGCpr0v-tLoJmKrjG0KeqA3rLdj5hQ73jnOIjq2kmUcPajCvCTA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CANAL 26
 http://181.13.173.86:8000/play/a01r/index.m3u8
@@ -218,7 +218,7 @@ http://181.13.173.86:8000/play/a01s/index.m3u8
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="NOTICIAS NACIONALES", RURAL TV
-https://ythls.armelin.one/channel/UCPumJ2ayrr-JDsA9JDCUDDQ.m3u8
+http://181.209.95.29:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4Pdlm_CqA7QH1YapYrh5qEwiwgeg6lSZ1rwaBAL57gPJS3yxzQT3bHLihVRx6Y6-A4LFnGsXJg=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CHACRA TV
 https://g5.vxral-hor.transport.edge-access.net/a11/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
@@ -227,10 +227,10 @@ https://g5.vxral-hor.transport.edge-access.net/a11/ngrp:gcba_video3-100042_all/g
 https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1x137ostiNGYbXe5sP-LYMun9ghpr_uz54WATZM7rVeBBrDV-8DQV0Hy8Fv8kbWeX_BIY48Vbng=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", EXTRA TV  
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0021
+http://200.121.48.17:8000/play/a08p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lq90qVBWRaNJxcH70Jlko05VWx2iwDf8vL4jGMJ5MnmCs=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Destape TV 
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0075
+http://200.121.48.17:8000/play/a06x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/OttUuKTaZLo0tUG6D9uG2_ZRIt7EaVN7_tVQIO4R3NHwb3QZdyBxK01CTn5JsOhVVdiAdUH2_nY=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Telefe Noticias
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0087
