@@ -682,53 +682,6 @@ http://181.13.173.86:8000/play/a0b7/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWHIbwMhnFMCuzqAgYLr5jYv87JH7fDN65VxdIP=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", LUZU TV
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0101
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fFQhXC5i5_BqbrkaWhpHPENuEvWk4rXuuxgPM15cUQrBkjIqJrFfIzPgOvwznvWhfoMHrEHxYnQ=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", OLGA
-https://ythls.armelin.one/channel/UC7mJ2EDXFomeDIRFu5FtEbA.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/YbHuyOrm08Mf7IET1NGGMu3nPxkLJa4a873m3-0tbIjNmq-ZnHPqZeJmfsG59rJpgjvcP_U4Bhw=s48-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", GELATINA
-https://ythls.armelin.one/channel/UCWSfXECGo1qK_H7SXRaUSMg.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nqhez5E1j4YzrCvzTAAB6z_KDFFZznqWv0x-vfY2gsXdY=s900-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", BLENDER
-https://ythls.armelin.one/channel/UC6pJGaMdx5Ter_8zYbLoRgA.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dbzzlClEIe6IgvcrsaWVDef2daRmp-6sWuRzWxMgtPAmxJJRzbaGrKU_PlMBmNzZ0alNoMax7Q=s160-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", Carajo
-https://ythls.armelin.one/channel/UC4mdhKZXjrKoq5aVG6juHEg.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6WAUT8ntjLXm2jr9xW5HNePAYKlTO_IrLXAC90Nn7iKYnQxr5jQ_LJUMHf--iC9AqsDQrHK7dA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", República Z
-https://ythls.armelin.one/channel/UCmk9kjghfkM3k8I6jioDr3g.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UEATPU2rMqerCid0coyZKs0xrv2MB7hsQy0EW2e0z1pVW9cbDrLTrluWqlI_D2UaTxhPF-TFiA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", Bondi Live
-https://ythls.armelin.one/channel/UCnZidingmuqNkaT9Wm64Xxg.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/uPLsSGP9wLJfNBJlFzirBf2s4K7XOeBnQpSeyxs_3nIsAYbqZ5r4Igcn_0yLt5HcvCN5OtyAZw=s48-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", LA CASA STREAMING 
-https://ythls.armelin.one/channel/UC4u0BhsSi33PS20_1JHiC5A.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jdYIssLgCs53GcfKQMr4WPBjRp01-bG7DOCFd7kQEyojHRo1G2s5OUKQuTQHA4ua65SMl366FWA=s160-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", AZZ
-https://ythls.armelin.one/channel/UCgLBmUFPO8JtZ1nPIBQGMlQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/BGIQ0u-6bndxhdtmvjI4xsUtH_Lqh4zKnYsO9QJESkSKurPkPxERVf6pkZxomqFBsoau6RMU-ks=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", eltrece YT STREAM
-https://ythls.armelin.one/channel/UC0DM_mHV2u6dj8ig51GkQwg.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uaMgzd4i0iGHxpaBRJVYFYRpWBWBqDJdhysytSXMKvtEo1AsLWj1KIqaMWzMP8q-8MCHRq-_UQ=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", Telefe YT STREAM
-https://ythls.armelin.one/channel/UCHc3el42hXKKhjs_1vzWk9A.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/HIeucb9xdTW5Hh7kkhDiROU7zLO6fNzn6q_fDvgFr_fD2qFH1vT-8U2OdOf0Pb_VCvmD-PClgQ=s160-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", TyC Sports YT STREAM
-https://ythls.armelin.one/channel/UC72ZaBKI-Bo5fjmWEYonhJw.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/RCvDoJkJX7HxRTuRbBOO7ax-PCaVrly5XCIxhSCu1--9JM-r85hJYOO4SEkIu6kxasDL4IjaUBQ=s48-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG" , DGO YT STREAM
-https://ythls.armelin.one/channel/UCqxBNDHmEZgqU1B61oc-QhQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/5Z1hvxKjySfa98QkFzmeLJiNhZLi7vaQAh_eVDJdU5v5Cyf_Ez45K1fhnO_R0Px6-qRfYPV2Pk8=s48-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG" , Chiringuito Inside YT STREAM
-https://ythls.armelin.one/channel/UCznSLkPhcORf0JhonB7Aegg.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/3ondwJtqgg_1YlfjFd_KJMQ-Q4bz764TiYlsZc0kKwsU5FQghNUwalM0jnnPo7WysTCOWkQQIg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="STREAMING ARG" , ESPN Fans YT STREAM
-https://ythls.armelin.one/channel/UCFmMw7yTuLTCuMhpZD5dVsg.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ixVEoxdif6DyM79ghgX3Y5i6ndya6G4zbPw0FAiKnFW5CTnr7hqeeym-4BJ0BJuGBasc5PF3=s48-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG" , TNT Sports Argentina YT STREAM
-https://ythls.armelin.one/channel/UCI5RY8G0ar-hLIaUJvx58Lw.m3u8
 
 
 
@@ -1003,6 +956,10 @@ https://videostream.shockmedia.com.ar:19360/poderosa/poderosa.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiDpW9-oUrhcoA6jqYdCOGpdLNum_mYsRuthvidnxWkbNw2s0Mnq4NNxawzhPH6eQ8jSo&usqp=CAU" group-title="AMBA", DITI TV
 https://ssh101-fl.bozztv.com/ssh101/dititv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5sUzO2MRJIdvZHhLyQM-vFFuWYF68BsyGdQ&s" group-title="AMBA", KAIROS TV
+https://videostream.shockmedia.com.ar:19360/kairostv/kairostv.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_Radio_AN24.png" group-title="AMBA", AN24
 https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/chunklist_w1870422688.m3u8
