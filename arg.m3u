@@ -250,47 +250,19 @@ https://www.youtube.com/watch?v=gerHxdGD928
 #EXTINF:-1 group-title="NOTICIAS NACIONALES", Radio La Red AM 910
 https://www.youtube.com/watch?v=w68z5lKOBEs
 
-#EXTINF:-1 group-title="NOTICIAS NACIONALES", Radio Nacional Argentina AM870
-https://ythls.armelin.one/channel/UCgcUYL6ODQniPuwD4N-Tlvg.m3u8
-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/dRPKP2NvjrovVP4NXIqLfwP6bwL3vytK-q8wNfwpBLNIHx80iWb_CadYb2n24Hu7FBowKZCl=s48-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Somos Radio AM 530
 https://www.youtube.com/watch?v=n9hPLIau00s
 
 #EXTINF:-1 group-title="NOTICIAS NACIONALES", RADIO DEL PLATA AM 1030
 https://www.youtube.com/watch?v=DhchiT9RU_8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GmKYEDNukShC6vUJU-drXQMkllMCZK184gRIMBulv41Z0suNzAw-uwhY6ViGlDh07oAcORvp=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Observador 107.9 FM
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0022
-
 #EXTINF:-1 group-title="NOTICIAS NACIONALES", DIPUTADOS TV 
 https://www.youtube.com/watch?v=jDcTn1BQrkY
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xK2UU-mjcRno8NcJSFnE9VRaIY_-TRaKNa3Nkyca7ZMxUeFrIIZGk9YsltI64rdmaHgyOQowFg=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Radio Splendid AM 990
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0005
 
 #EXTINF:-1 group-title="NOTICIAS NACIONALES", DNews
 https://www.youtube.com/watch?v=J4v5S6SCS70
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/PUZaouBDWH1vPzIAzqIXsn8xx3M_SdIa4gxncu61_dE6FRDOXTDD0TRAj9Inp2vDr7oELMwHuA=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Ahora Play
-https://ythls.armelin.one/channel/UCRyGJcJYqqiCByEaUhDLMsw.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/cz7jeL0VIqd7P4jfb-6G9zFvoitju6SeHcf2cCcuUr-NH6lvPYjjp9iEYhAdC72jSzDK4zWf=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Neura Media
-https://ythls.armelin.one/channel/UC-40U87JsevMIMn7PMw4jPw.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yDu32Wsa3T7E1q2L44Hl2lzrBrKiUxVYXL9m8QinTUJ7Km8bQDhx1A9_GvuvtiPtKWWbk6yOvi8=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Vocería Presidencial
-https://ythls.armelin.one/channel/UCCSbOixo2xpZc_oToqeq2jQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ww7DjZRjD_qoJfcoNBfS7JYncYTdyf_jIsk4O6aVZFk7KEBvwVKJiWG2971CUwlktJ13Cz_E3A=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CLARÍN - Eventos
-https://ythls.armelin.one/channel/UCjMGMWnToRcQRqmyVB4R2xQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRViyhqrK_4KgGtkRD8XC5a0VtNWvkIZIvpDSOuKQ=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Perfil - Eventos
-https://ythls.armelin.one/channel/UCl6L85YuyK4rVn5NI--dHUw.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8H5T8b_2tIy-2HgmY2UUDHi_B_zkKQpFag&s" group-title="NOTICIAS NACIONALES", Infobae - Eventos
-https://ythls.armelin.one/channel/UCvsU0EGXN7Su7MfNqcTGNHg.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRGO4j6_mLGeLiFV6tWQZaY_xL6He9--A3M-IRnpA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", SENADO TV (SOLO SESIONES)
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0106
 
 
 
@@ -698,9 +670,6 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-id="RTEspanol.ru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPSqFBOrQz5fEGyyzdKq1-Rwg9nJDcQAen64Rgo8kpC0ED3j3xP-DdjtzZT4OzTZdG-o&usqp=CAU" group-title="NOTICIAS INTERNACIONAL", RT 
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="NOTICIAS INTERNACIONAL", FRANCE 24 ESPAÑOL
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0073
-
 #EXTINF:-1 tvg-id="60d3583ef310610007fb02b1" tvg-chno="280" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="NOTICIAS INTERNACIONAL",Euronews
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -764,14 +733,7 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/57c240242b6d1a5c925fe521bb936a79a60d1fa5d2ec8e93ee7f5a1c97bd163c.png" group-title="NOTICIAS INTERNACIONAL", TVGE
 https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ll92OqxwOp3LzbIrIYDBO3K5WQK6q7xfJ3DCKrxQ=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", CNN BRASIL
-https://ythls.armelin.one/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQqZkqkHW3D4oDj5kPgt5TO9LJ3YEiu9Ye-ToJBnw=s176-c-k-c0x00ffffff-no-rjj" group-title="NOTICIAS INTERNACIONAL", Television Canaria
-https://ythls.armelin.one/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://world.kbs.co.kr/service/common/images/kbsworldlogo_png.png" group-title="NOTICIAS INTERNACIONAL", KBS
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0046
 
 
 
@@ -921,9 +883,6 @@ https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
 #EXTINF:-1 tvg-logo="https://img.onesignal.com/permanent/2abdeea6-0a9d-4083-913c-277bf221b79e" group-title="AMBA", SICARDI TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZUAZtUv4nPqv-cDM9NBOvMkFPsgM9y0jHRCXlrPQ=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", UNQtv
-https://ythls.armelin.one/channel/UCDGRQwIsI-kOCwdUn4UFjSQ.m3u8
-
 #EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2023/03/Marca-UNLP-TV-sin-fondo.png" group-title="AMBA", TVU LA PLATA 32.1
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8 
 
@@ -1003,18 +962,6 @@ https://stmvideo1.livecastv.com/tvo/tvo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlJdHzp2wLYBncDTew0M_zvN4CjDBr-AEuRw&s" group-title="AMBA", ESPACIO FABRIK
 https://stmv6.voxtvhd.com.br/espaciofabrik/espaciofabrik/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uRTY_eREkTQUEbazeoqOh0RhNNcgsag-QkBmT3lO94yy7LbvNk_lPgZtAnHryirJR6dXRV8p8Iw=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", Campeones TV
-https://ythls.armelin.one/channel/UCQtJCkHdO66sKxvfD8Ik_bg.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tjkAsX3xKROi9W558RKpI_CUwHiknuQXTTYHeqFPdu-BuBvHzToha9X26BXt34I7yiFy48EsBw=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", Pilar Play
-https://ythls.armelin.one/channel/UClFaWD8mSP7Chyk2tXz29PQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_npFV9T27REoAAI-D0S8bykaIzaB7C4_ejxV-Yw4UXnDuU=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA",  Hipodromo de Palermo 
-https://ythls.armelin.one/channel/UCBQnpH3GKOKRGg4O8PpqQSw.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/gf9kWeduRxAaS00lZzo3M1cLFBUJ7QBKCtNoGAQA-ThsWGI-IiBRBzShdfU9tM3XzaEHT_FCCA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="AMBA",  Hipódromo San Isidro
-https://ythls.armelin.one/channel/UC3M7efaO9uxT0LTl3BSKvGg.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFIVETV.png" group-title="AMBA", FIVE TV  16.1
 https://panel.host-live.com/8118/8118/playlist.m3u8
 
@@ -1036,35 +983,8 @@ https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="RADIO-AMBA", LATINA RADIO FM 101.1
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/15b8rnUTG093julXkG43wz8mVSb0kSD2lL57imMJZunnXpIVKHX6jW-D9lPTh4hB5I1YPT3QsQ=s160-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Metro951 Live
-https://ythls.armelin.one/channel/UCQeyDDFM08BXZqj-e-DuMug.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRCazpNOqQcY8FaA-lP-H-SNhKKsCEQLny14r69=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", MEGA
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0015
-
-#EXTINF:-1 tvg-logo="https://urbanaplayfm.com/file/2022/05/logo.png" group-title="RADIO-AMBA", URBANA PLAY 104.3 FM 
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0020
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ph7cwkIc-kOD29JxD6Y6JNotUDTnHLBgulrJAkw_wNQz3QSevz9SF3zqxpHfudNzrpdYgEKsYyY=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Radio One 103.7
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0019
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/pDSd701P-bEY545oalnnx-tSrr1Eu9t2Aw9BhFkoVMtdf3o-FrGMxzipJk5iaZx0HkOD8dRxzQ=s160-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Radio Con Vos 89.9
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0011
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Radio_rockpop.png/200px-Radio_rockpop.png" group-title="RADIO-AMBA", Rock And Pop 95.9
-https://ythls.armelin.one/channel/UCAlQ5f7mhnkfM6jjXeJDw7g.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/lbuMH0aEalHh_WqO-aOuPwU3JawaadpR8vU1GaRIzzYlXwbaQQoTEIhgTNIdvFKa2s_AREmQePQ=s48-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Futurock FM
-https://ythls.armelin.one/channel/UCgn6r0aGRBnEQm02tE_jzbw.m3u8
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/W2KdC8bXe-lXWS7ki5lcoW9cJ_59kNiiiMmCvbfU6pM6Dj1lLVoRZmanBdJ3oXcVzzUbhymr2A=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", VORTERIX - 92.1 FM
 https://g3.vxral-hor.transport.edge-access.net/b04/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Popradio.gif" group-title="RADIO-AMBA", Pop Radio 101.5
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0018
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JxwhSqarFrw-4kGSn-kd4-J7QLBOoyYJwcwmSBLFKCvQUzsG-XdXCO-ZQFuN-N0D7Sk=w600-h300-pc0xffffff-pd" group-title="RADIO-AMBA",  FM Vale 97.5 
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0014
 
 #EXTINF:-1 tvg-logo="https://www.cronica.com.ar/fmq/images/logos/logo-fmq.svg" group-title="RADIO-AMBA", RADIO FMQ QUILMES
 https://g3.vxral-slo.transport.edge-access.net/b08/ngrp:cronica_fmq-100044_all/cronica_fmq-100044_720p.m3u8
@@ -1151,7 +1071,6 @@ https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Pla
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1552046129801580548/aPHfyis0_400x400.jpg" group-title="PCIA BS AS", CANAL 8 MAR DEL PLATA
 https://stream.arcast.ar/c8mdp/ngrp:c8mdp_all/chunklist_w1373127658_b1662976_tkd293emF0b2tlbmVuZHRpbWU9MTczMjIyNTU2MCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9M1VpNlNyejc3M01ic0hzVUlibno3b0YxWDJXOWJHV0tPSlo3Z3NEZnVSRT0=.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/M14IwE4_GRnGI7a2vzEWC0O_-5LYsKyaRLrtZz_63APTwB0lgpfUVxy5Knj_3LBxHwXKlmNN=s176-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", CANAL 10 MAR DEL PLATA
 https://g4.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
