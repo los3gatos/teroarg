@@ -1267,8 +1267,7 @@ https://stmvideo1.livecastv.com/valleviejo/valleviejo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/435599016_122140474784150131_4407321880318274343_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeENfvexwlRSRzOPQTinM8icdkA4mb0u6vt2QDiZvS7q-zt3oBtULpg7wSJlirCZ45A&_nc_ohc=cpk3caaNhJcQ7kNvgGZQwdr&_nc_zt=23&_nc_ht=scontent.faep7-1.fna&_nc_gid=AdAaVWJYsJFAEJZVJCDOhOP&oh=00_AYBj2g34qSQq28XnlFuBfzGiG-NFaV_ISDT-3tatGmHXbg&oe=673FCF06" group-title="CATAMARCA", Canal 7 Saujil
 https://tv.streamcasthd.com:3945/live/canal7saujillive.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9vjcl17M8Aaa9KvAolzOPNKb2u5p_klrv6F0OGB-SDmfip4Von3zAF65xRzoT7LzMRQSb0mf6A=s160-c-k-c0x00ffffff-no-rj" group-title="CATAMARCA", Esquiú Play
-https://ythls.armelin.one/channel/UCVJ4V2QLlrWpOMJ_N5Ck6Og.m3u8 
+
 
 
 
@@ -1355,14 +1354,11 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0213
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="CORDOBA" , EL DOCE CORDOBA  
 https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8 
 
-
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png/133px-Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="CORDOBA", CANAL 10 CORDOBA
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalU.ar" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTCMox85yr7_fh6Rec0Nto5dJoZRvAF7OJnq9AR=s176-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", CANAL U CORDOBA
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://radiomaria.org.ar/contenido/themes/radioMaria2019/imgs/logo-rm-footer.png" group-title="CORDOBA", RADIO MARIA TV
 https://5f700d5b2c46f.streamlock.net/maria720/maria720/chunklist_w2053024275_DVR.m3u8
@@ -1429,12 +1425,6 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canalcoop.com.ar/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcanal-coop.d704a2e4.png&w=3840&q=75" group-title="CORDOBA", CANAL COOP JESUS MARIA CORDOBA
 https://cdn.sensa.com.ar/output/COR/CaroyaCoopH/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC3HEAT.png" group-title="CORDOBA", Cadena Heat 91.9 FM
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0210
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC3POPU.png" group-title="CORDOBA", La Popu 92.3 FM
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0211
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MvVCaQ_ko0Xev4kzyFvX5eZ1Mzd2yGVh2ZJ3oDeXif0n_DYqA6cgjufJ31ZflJLMmAV1bq3vXQ=s160-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", Radio Alta Gracia 103.9
 https://stmvideo3.livecastv.com/radioaltagracia/radioaltagracia/playlist.m3u8
@@ -1967,8 +1957,7 @@ https://vivo.solumedia.com:19360/radiosalta/radiosalta.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC9hVqjhqBDvqwmquUaPrZ-5K7qQ36M8IzqA&s" group-title="SALTA", CIUDAD FM 88.1 TARTAGAL
 https://stream.arcast.host:8443/ciudadfm/ciudadfm.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wjHXPoBvtg6NXkti-2JxmC2FeDTMoVmmCZ1MubqcHseaJAzKdr4j-X45iln6q6Ow6NjkdGMxaw=s160-c-k-c0x00ffffff-no-rj" group-title="SALTA", Radio 947 Salta
-https://ythls.armelin.one/channel/UClRhjsbjqqUnGP_SvBQrxGg.m3u8
+
 
 
 
@@ -2091,9 +2080,6 @@ https://inliveserver.com:1936/12030/12030/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.santafecanal.com.ar/assets/img/logo_rts.png?r=2" group-title="SANTA FE", RTS TELEVISION SANTAFECINA
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/153px-Eltres_RGB-grad_%28positivo%29.png" group-title="SANTA FE", EL TRES ROSARIO
-https://ythls.armelin.one/channel/UCW1sJwBOGgPhSPXJ-6pjF6w.m3u8 
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0375
@@ -2245,20 +2231,12 @@ https://5f700d5b2c46f.streamlock.net/airelibrefm/airelibrefm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thecabinn.com.ar/storage/2021/10/the-cabinn.png" group-title="TIERRA DEL FUEGO", RADIO THE CABINN 91.9 FM RIO GRANDE
 https://5f700d5b2c46f.streamlock.net/thecabinn/thecabinn/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/s6d0wNEuQ6Ehend0OWdQpCUANhRvBh22F_Rrq84iXaKzeD-Jm3ECg4PHRCnBLQlbkhy2UbGBvg=s48-c-k-c0x00ffffff-no-rj" group-title="TIERRA DEL FUEGO", Info3Noticias
-https://ythls.armelin.one/channel/UCAndrmynDfyUjGjzEHOIsaA.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBPkoMgNeNKLxEvCJoh6Zlms2uYE05yG53weTL1Oivm_VRyDtNleO9gf1oKgY4cTHYpFA&usqp=CAU" group-title="TUCUMAN", EL OCHO TUCUMAN
 https://github.com/azgaresncf/strm2hls/raw/refs/heads/main/streams/elocho.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBPkoMgNeNKLxEvCJoh6Zlms2uYE05yG53weTL1Oivm_VRyDtNleO9gf1oKgY4cTHYpFA&usqp=CAU" group-title="TUCUMAN", EL OCHO TUCUMAN
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0406
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVE4QANzgXzGz73LJphirPDunehTTXLwO7QOPPhtQ=s88-c-k-c0x00ffffff-no-rj"  group-title="TUCUMAN", AMERICA TUCUMAN
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0409
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1097897648948948992/bS8JOGDt_400x400.png" group-title="TUCUMAN", CANAL 5 TUCUMAN
 https://videohd.live:19360/8090/8090.m3u8
@@ -2287,17 +2265,7 @@ https://videostream.shockmedia.com.ar:19360/rttvoficial/rttvoficial.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigiWsXaX5t91OcQbGYaGaEwGZfXUxpqmrGzDtZDkfmmbREUckcSycpUsPH8Tkv7K3y6Ch6M3wjdIto6rcxlMSYJ--gA245aHyOlFX1Vvb90vro7viKj7c4XCU1zGOpLhx-27nuwJcsYdI/s1600/logochicolargo2020+arreglada+.jpg" group-title="TUCUMAN", Metropolitana 93.5 FM
 https://panel.host-live.com/metropolitanafm/metropolitanafm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Zb5rRSMGsf6FupV9ln_4s5ItF-H_mnq_sirWIc3jab0NVjWKpUO0LWNhTS7K11xmyIDfZD_h=s48-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", Los Primeros Tucuman
-https://ythls.armelin.one/channel/UCf62XaF_MK2k2-wVggZ6kuw.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-tA30i615UkGDDL-NfvfMx8eV0LqTj3ely88Ijg8LsKe-y7FelHARDgjOsSsgtgt5Gf8sGvG=s176-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", LA GACETA PLAY
-https://ythls.armelin.one/channel/UCowbI8idnvQTl2sFxkOvnKw.m3u8 
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8vbEC8bs7jGp8a4BXCtqFOMK_LctZc43IJwsCX2zAgyvyerAEgdzKKRI4TykU32lmP1M6aR5=s176-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", La tucumana FM (DE 6 A 11)
-https://ythls.armelin.one/channel/UCS_F0326eeAQY09gFqJILCw.m3u8 
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/I4dskHLrie8_CsblsSSLJVZfPF5Zjtrz9fwEjN0YmtmEQPzJnyEg9uyFJDgY-0sAKOW2QiAHBA=s176-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", Radio Tucumán
-https://ythls.armelin.one/channel/UCCWNHuePu3KADnm3iuVPdtg.m3u8 
 
 
 
@@ -2586,17 +2554,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKY5lWkPLawUp0o4nFXAMA-H-Bnwk6hX2hXopKlz=s176-c-k-c0x00ffffff-no-rj" group-title="URUGUAY", En Perspectiva   
-https://ythls.armelin.one/channel/UCzj1iuImjo-Eb8JMELC1Jwg.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9T4Ko6711CNenPvLULkrlAR6_Q9yosWHu_KKf4svKosboX-CaoMYveNWKeKx4xQQg-GCyVe9lg=s176-c-k-c0x00ffffff-no-rj" group-title="URUGUAY", M24 MOV 
-https://ythls.armelin.one/channel/UCu-U3hwhBTR3lzyZnPUL2Hg.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNYdZqfKDzA2ese55l16FfpZu27PISekOAaIMMR3w=s176-c-k-c0x00ffffff-no-rj" group-title="URUGUAY", 970Universal
-https://ythls.armelin.one/channel/UCYfmi4AKY-kMDkt7BtvOKxg.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TVCiudad_logo_2020.png/140px-TVCiudad_logo_2020.png" group-title="URUGUAY", CIUDAD TV
-https://ythls.armelin.one/channel/UCcEFFCUo9fD5DK1FcclyKUA.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-n-ToclaJnhU/YTo17oV6nPI/AAAAAAAAQgk/YKWlAtGijwkfrlfVixbJ4sK3uYB9cKXDwCLcBGAsYHQ/s1152/canal-tvflorida-en-vivo_optimized.jpg" group-title="URUGUAY", TVF FLORIDA UY
 https://hostingservicios.info/memfs/2b2e8b12-b741-4c00-9a34-f20dfbaf6462.m3u8
@@ -3870,17 +3828,7 @@ https://stmvideo1.livecastv.com/tvsion/tvsion/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Four_Seasons_logo.svg/1200px-Four_Seasons_logo.svg.png" group-title="WEB CAM Y CLIMA", FOUR SEASONS BUENOS AIRES
-https://ythls.armelin.one/channel/UCCkRwmztPEvut3gpsgmCmzw.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg/320px-Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg.png" group-title="WEB CAM Y CLIMA", USHUAIA CAMARA
-https://ythls.armelin.one/channel/UC6NTD1HmdaZMbe9K5qADOvw.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg/320px-Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg.png" group-title="WEB CAM Y CLIMA", CANAL DE BEAGLE USHUAIA
-https://ythls.armelin.one/channel/UCuR9Gx3rZA_eaJV9tF8l8HQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJU-1n6A5Bg_wJXi4t-kNpT79Mx9jIxTnCLWThl9xA=s176-c-k-c0x00ffffff-no-rj" group-title="WEB CAM Y CLIMA", Cipolletti
-https://ythls.armelin.one/channel/UCnJz20oDnvQJJaWfaJGqKTw.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.neuquencapital.gov.ar/modernizacion/wp-content/uploads/sites/5/2019/12/logo.png" group-title="WEB CAM Y CLIMA", CIUDAD DE NEUQUEN (Mirador Paseo Limay)
 https://nqnmunicam.ddns.net/camnqn/rotonda_720p/playlist.m3u8
@@ -3939,17 +3887,7 @@ http://cambsasyplaya.gesell.com.ar/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", LA PINOCHA VILLA GESELL
 http://camlapinocha.gesell.com.ar/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUKVAYKPRYrumZZMCDkUyy1Rr1gMzpKf9GR8ib8=s176-c-k-c0x00ffffff-no-rj" group-title="WEB CAM Y CLIMA", RESISTENCIA CHACO
-https://ythls.armelin.one/channel/UCftan3cVkKKfxXpRN9JUX7A.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/s8lgzKvQTcv3cUt3-Uq_6OOAgdN-aUxN2D-R9Syq82-rtp29O007EtfGcsrp0ZBcTOg3QFp0tQ=s160-c-k-c0x00ffffff-no-rj" group-title="WEB CAM Y CLIMA", MONTECARLOS MISIONES
-https://ythls.armelin.one/channel/UCveq2vfMg1tgeVjvRPsOLVg.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lrQOv1GBOI4lcjMNjGRJPqgaNodo4cOkOiPh7_QAnDfw=s160-c-k-c0x00ffffff-no-rj" group-title="WEB CAM Y CLIMA", Portal 5900
-https://ythls.armelin.one/channel/UCl5P2zJoH1gBdf38AiYALKA.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8X9mT-HZG5lKIiCAJykIcmXqiL55IlVyGqWptac3ezJgf6r2Can8euNwXp4DTBFAbEw=s176-c-k-c0x00ffffff-no-rj" group-title="WEB CAM Y CLIMA", Tierra del Fuego Live
-https://ythls.armelin.one/channel/UC6NTD1HmdaZMbe9K5qADOvw.m3u8
 
 
 
