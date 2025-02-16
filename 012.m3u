@@ -21,6 +21,8 @@ http://45.5.151.151:8000/play/a0ld/index.m3u8
 http://45.5.151.151:8000/play/a0n3/index.m3u8
 #EXTINF:-1,Bolivision
 http://45.5.151.151:8000/play/a0no/index.m3u8
+#EXTINF:-1,C5N
+http://45.5.151.151:8000/play/a018/index.m3u8
 #EXTINF:-1,CADENA A HD
 http://45.5.151.151:8000/play/a0np/index.m3u8
 #EXTINF:-1,CNN en Espaæol
@@ -31,8 +33,8 @@ http://45.5.151.151:8000/play/a0n8/index.m3u8
 http://45.5.151.151:8000/play/a0qa/index.m3u8
 #EXTINF:-1,Cartoonito
 http://45.5.151.151:8000/play/a0pe/index.m3u8
-#EXTINF:-1,DHE
-http://45.5.151.151:8000/play/a0lb/index.m3u8
+#EXTINF:-1,Cine.AR
+http://45.5.151.151:8000/play/a0o3/index.m3u8
 #EXTINF:-1,DTV
 http://45.5.151.151:8000/play/a0nq/index.m3u8
 #EXTINF:-1,Discovery World HD
@@ -79,8 +81,8 @@ http://45.5.151.151:8000/play/a0nm/index.m3u8
 http://45.5.151.151:8000/play/a0r1/index.m3u8
 #EXTINF:-1,HBO 2
 http://45.5.151.151:8000/play/a0qq/index.m3u8
-#EXTINF:-1,HBO Xtreme
-http://45.5.151.151:8000/play/a0qw/index.m3u8
+#EXTINF:-1,HBO Family
+http://45.5.151.151:8000/play/a0q7/index.m3u8
 #EXTINF:-1,HBO Xtreme
 http://45.5.151.151:8000/play/a0qf/index.m3u8
 #EXTINF:-1,ID
@@ -133,8 +135,6 @@ http://45.5.151.151:8000/play/a0on/index.m3u8
 http://45.5.151.151:8000/play/a0n9/index.m3u8
 #EXTINF:-1,TVU SUCRE UNIVERSIDAD SAN FRANCISCO XAVIER
 http://45.5.151.151:8000/play/a0nb/index.m3u8
-#EXTINF:-1,Tele Estrella 2
-http://45.5.151.151:8000/play/a0qx/index.m3u8
 #EXTINF:-1,Tele Estrella HD
 http://45.5.151.151:8000/play/a0n6/index.m3u8
 #EXTINF:-1,Tele6 Internacional
