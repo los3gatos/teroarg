@@ -21,6 +21,8 @@ http://201.217.246.166:8000/play/a094/index.m3u8
 http://201.217.246.166:8000/play/a06j/index.m3u8
 #EXTINF:-1 group-title="-",C5N
 http://201.217.246.166:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 5 BIS
+http://201.217.246.166:8000/play/a0dr/index.m3u8
 #EXTINF:-1 group-title="-",CANAL 9 LINK
 http://201.217.246.166:8000/play/a0dn/index.m3u8
 #EXTINF:-1 group-title="-",CNN en Espaæol
@@ -63,6 +65,8 @@ http://201.217.246.166:8000/play/a06w/index.m3u8
 http://201.217.246.166:8000/play/a08x/index.m3u8
 #EXTINF:-1 group-title="-",E! Entertainment
 http://201.217.246.166:8000/play/a08z/index.m3u8
+#EXTINF:-1 group-title="-",EL FOLKLORICO TV
+http://201.217.246.166:8000/play/a0ds/index.m3u8
 #EXTINF:-1 group-title="-",ENLACE
 http://201.217.246.166:8000/play/a0d6/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 2 HD
@@ -71,8 +75,6 @@ http://201.217.246.166:8000/play/a098/index.m3u8
 http://201.217.246.166:8000/play/a09a/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 4 HD
 http://201.217.246.166:8000/play/a084/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 5
-http://201.217.246.166:8000/play/a0cx/index.m3u8
 #EXTINF:-1 group-title="-",ESPN HD
 http://201.217.246.166:8000/play/a099/index.m3u8
 #EXTINF:-1 group-title="-",ESPN Premium HD
@@ -129,8 +131,6 @@ http://201.217.246.166:8000/play/a07l/index.m3u8
 http://201.217.246.166:8000/play/a06r/index.m3u8
 #EXTINF:-1 group-title="-",MTV×00
 http://201.217.246.166:8000/play/a092/index.m3u8
-#EXTINF:-1 group-title="-",MULTIVISION
-http://201.217.246.166:8000/play/a0cv/index.m3u8
 #EXTINF:-1 group-title="-",Metro
 http://201.217.246.166:8000/play/a06l/index.m3u8
 #EXTINF:-1 group-title="-",Nat Geo HD
@@ -169,6 +169,8 @@ http://201.217.246.166:8000/play/a067/index.m3u8
 http://201.217.246.166:8000/play/a0dm/index.m3u8
 #EXTINF:-1 group-title="-",TCM
 http://201.217.246.166:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="-",TELEMUNDO
+http://201.217.246.166:8000/play/a0d1/index.m3u8
 #EXTINF:-1 group-title="-",TLNovelas
 http://201.217.246.166:8000/play/a07y/index.m3u8
 #EXTINF:-1 group-title="-",TN HD
@@ -181,8 +183,6 @@ http://201.217.246.166:8000/play/a08e/index.m3u8
 http://201.217.246.166:8000/play/a08c/index.m3u8
 #EXTINF:-1 group-title="-",TNT Sports HD
 http://201.217.246.166:8000/play/a06z/index.m3u8
-#EXTINF:-1 group-title="-",TOONCAT
-http://201.217.246.166:8000/play/a0cy/index.m3u8
 #EXTINF:-1 group-title="-",TV Publica HD
 http://201.217.246.166:8000/play/a095/index.m3u8
 #EXTINF:-1 group-title="-",TVE
@@ -201,6 +201,8 @@ http://201.217.246.166:8000/play/a09i/index.m3u8
 http://201.217.246.166:8000/play/a066/index.m3u8
 #EXTINF:-1 group-title="-",Warner Channel HD
 http://201.217.246.166:8000/play/a09d/index.m3u8
+#EXTINF:-1 group-title="-",canal 5
+http://201.217.246.166:8000/play/a0dp/index.m3u8
 #EXTINF:-1 group-title="-",ciudad magazine
 http://201.217.246.166:8000/play/a06m/index.m3u8
 #EXTINF:-1 group-title="-",el nueve HD
