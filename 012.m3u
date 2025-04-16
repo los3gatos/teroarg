@@ -1,155 +1,31 @@
 #EXTM3U
-#EXTINF:-1,A&E
-http://45.5.151.151:8000/play/a0hy/index.m3u8
-#EXTINF:-1,ABE Educativo
-http://45.5.151.151:8000/play/a0nu/index.m3u8
-#EXTINF:-1,AM Sports
-http://45.5.151.151:8000/play/a0po/index.m3u8
-#EXTINF:-1,Abya Yala Tv
-http://45.5.151.151:8000/play/a0nr/index.m3u8
-#EXTINF:-1,Agenda Minera
-http://45.5.151.151:8000/play/a0nj/index.m3u8
-#EXTINF:-1,America TV HD
-http://45.5.151.151:8000/play/a0c7/index.m3u8
-#EXTINF:-1,Ayni TV
-http://45.5.151.151:8000/play/a0r3/index.m3u8
-#EXTINF:-1,Azcorazon
-http://45.5.151.151:8000/play/a0jv/index.m3u8
-#EXTINF:-1,BBC News
-http://45.5.151.151:8000/play/a0ld/index.m3u8
-#EXTINF:-1,Bolivia TV7.2
-http://45.5.151.151:8000/play/a0n3/index.m3u8
-#EXTINF:-1,Bolivision
-http://45.5.151.151:8000/play/a0no/index.m3u8
+#EXTINF:-1,26 TV
+http://186.0.248.113:8000/play/a0bp/index.m3u8
+#EXTINF:-1,A 24
+http://186.0.248.113:8000/play/a0bq/index.m3u8
 #EXTINF:-1,C5N
-http://45.5.151.151:8000/play/a018/index.m3u8
-#EXTINF:-1,CADENA A HD
-http://45.5.151.151:8000/play/a0np/index.m3u8
-#EXTINF:-1,CNN en Espaæol
-http://45.5.151.151:8000/play/a0q2/index.m3u8
-#EXTINF:-1,CTV
-http://45.5.151.151:8000/play/a0n8/index.m3u8
-#EXTINF:-1,Cartoon Network HD
-http://45.5.151.151:8000/play/a0qa/index.m3u8
-#EXTINF:-1,Cartoonito
-http://45.5.151.151:8000/play/a0pe/index.m3u8
-#EXTINF:-1,Cine.AR
-http://45.5.151.151:8000/play/a0o3/index.m3u8
-#EXTINF:-1,DTV
-http://45.5.151.151:8000/play/a0nq/index.m3u8
-#EXTINF:-1,Discovery World HD
-http://45.5.151.151:8000/play/a0ol/index.m3u8
-#EXTINF:-1,Disney Channel
-http://45.5.151.151:8000/play/a0qr/index.m3u8
-#EXTINF:-1,Disney JR
-http://45.5.151.151:8000/play/a0jt/index.m3u8
-#EXTINF:-1,EGPP 360
-http://45.5.151.151:8000/play/a0ni/index.m3u8
-#EXTINF:-1,ESPN
-http://45.5.151.151:8000/play/a0o0/index.m3u8
-#EXTINF:-1,ESPN 2
-http://45.5.151.151:8000/play/a0nv/index.m3u8
-#EXTINF:-1,ESPN 3
-http://45.5.151.151:8000/play/a0hx/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://45.5.151.151:8000/play/a0qb/index.m3u8
-#EXTINF:-1,ESPN 5
-http://45.5.151.151:8000/play/a0pc/index.m3u8
-#EXTINF:-1,ESPN Extra HD
-http://45.5.151.151:8000/play/a0ix/index.m3u8
-#EXTINF:-1,ESPN Premium HD
-http://45.5.151.151:8000/play/a0fe/index.m3u8
-#EXTINF:-1,EWTN
-http://45.5.151.151:8000/play/a0le/index.m3u8
-#EXTINF:-1,El Canal  de las Estrellas
-http://45.5.151.151:8000/play/a0pu/index.m3u8
-#EXTINF:-1,El Gourmet
-http://45.5.151.151:8000/play/a0pw/index.m3u8
-#EXTINF:-1,F 10
-http://45.5.151.151:8000/play/a0n7/index.m3u8
-#EXTINF:-1,FAP Tv
-http://45.5.151.151:8000/play/a0qz/index.m3u8
-#EXTINF:-1,Fox Sports
-http://45.5.151.151:8000/play/a0nw/index.m3u8
-#EXTINF:-1,Fox Sports 2
-http://45.5.151.151:8000/play/a0o1/index.m3u8
-#EXTINF:-1,Fox Sports 3
-http://45.5.151.151:8000/play/a0pn/index.m3u8
-#EXTINF:-1,Giga Vision
-http://45.5.151.151:8000/play/a0nm/index.m3u8
-#EXTINF:-1,Gogoplay Tv
-http://45.5.151.151:8000/play/a0r1/index.m3u8
-#EXTINF:-1,HBO 2
-http://45.5.151.151:8000/play/a0qq/index.m3u8
-#EXTINF:-1,HBO Family
-http://45.5.151.151:8000/play/a0q7/index.m3u8
-#EXTINF:-1,HBO Xtreme
-http://45.5.151.151:8000/play/a0qf/index.m3u8
-#EXTINF:-1,ID
-http://45.5.151.151:8000/play/a0o7/index.m3u8
-#EXTINF:-1,IN
-http://45.5.151.151:8000/play/a0lk/index.m3u8
-#EXTINF:-1,La voz de Maria
-http://45.5.151.151:8000/play/a0oq/index.m3u8
+http://186.0.248.113:8000/play/a0bn/index.m3u8
+#EXTINF:-1,CNN Esp
+http://186.0.248.113:8000/play/a0bf/index.m3u8
+#EXTINF:-1,Canal Rural
+http://186.0.248.113:8000/play/a0bi/index.m3u8
+#EXTINF:-1,Ciudad Magazine
+http://186.0.248.113:8000/play/a0br/index.m3u8
+#EXTINF:-1,Cronica TV
+http://186.0.248.113:8000/play/a0bo/index.m3u8
+#EXTINF:-1,DeporTV
+http://186.0.248.113:8000/play/a0be/index.m3u8
+#EXTINF:-1,Estrellas
+http://186.0.248.113:8000/play/a0bd/index.m3u8
+#EXTINF:-1,Film and Arts
+http://186.0.248.113:8000/play/a0bj/index.m3u8
+#EXTINF:-1,La Nacion HD
+http://186.0.248.113:8000/play/a0bm/index.m3u8
 #EXTINF:-1,Lifetime
-http://45.5.151.151:8000/play/a0q6/index.m3u8
-#EXTINF:-1,MTV
-http://45.5.151.151:8000/play/a0lj/index.m3u8
-#EXTINF:-1,MTV×00
-http://45.5.151.151:8000/play/a0q1/index.m3u8
-#EXTINF:-1,Multipremier
-http://45.5.151.151:8000/play/a0py/index.m3u8
-#EXTINF:-1,Nick Jr
-http://45.5.151.151:8000/play/a0q9/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://45.5.151.151:8000/play/a0q0/index.m3u8
-#EXTINF:-1,PAT
-http://45.5.151.151:8000/play/a0ng/index.m3u8
-#EXTINF:-1,Plus Tlt Tarija
-http://45.5.151.151:8000/play/a0na/index.m3u8
-#EXTINF:-1,RA Television
-http://45.5.151.151:8000/play/a0r4/index.m3u8
-#EXTINF:-1,RED SIGLO XXI - Tv
-http://45.5.151.151:8000/play/a0ne/index.m3u8
-#EXTINF:-1,RT en Espaæol
-http://45.5.151.151:8000/play/a0oo/index.m3u8
-#EXTINF:-1,RTP
-http://45.5.151.151:8000/play/a0ns/index.m3u8
-#EXTINF:-1,Red America Tv
-http://45.5.151.151:8000/play/a0nl/index.m3u8
-#EXTINF:-1,Red UNO Lpz
-http://45.5.151.151:8000/play/a0n5/index.m3u8
-#EXTINF:-1,Red UNO Scz
-http://45.5.151.151:8000/play/a0n4/index.m3u8
-#EXTINF:-1,Sitel Potosi
-http://45.5.151.151:8000/play/a0nh/index.m3u8
+http://186.0.248.113:8000/play/a0bg/index.m3u8
+#EXTINF:-1,NET TV
+http://186.0.248.113:8000/play/a0bs/index.m3u8
+#EXTINF:-1,TLC
+http://186.0.248.113:8000/play/a0bh/index.m3u8
 #EXTINF:-1,TN
-http://45.5.151.151:8000/play/a0nz/index.m3u8
-#EXTINF:-1,TNT Sports HD
-http://45.5.151.151:8000/play/a0pm/index.m3u8
-#EXTINF:-1,TV Publica
-http://45.5.151.151:8000/play/a0ny/index.m3u8
-#EXTINF:-1,TVE
-http://45.5.151.151:8000/play/a0on/index.m3u8
-#EXTINF:-1,TVU PANDO
-http://45.5.151.151:8000/play/a0n9/index.m3u8
-#EXTINF:-1,TVU SUCRE UNIVERSIDAD SAN FRANCISCO XAVIER
-http://45.5.151.151:8000/play/a0nb/index.m3u8
-#EXTINF:-1,Tele Estrella HD
-http://45.5.151.151:8000/play/a0n6/index.m3u8
-#EXTINF:-1,Tele6 Internacional
-http://45.5.151.151:8000/play/a0qy/index.m3u8
-#EXTINF:-1,Telefe HD
-http://45.5.151.151:8000/play/a0kf/index.m3u8
-#EXTINF:-1,Tv Nuevo Tiempo
-http://45.5.151.151:8000/play/a0nt/index.m3u8
-#EXTINF:-1,TyC Sports HD
-http://45.5.151.151:8000/play/a0eo/index.m3u8
-#EXTINF:-1,VOS TV HD
-http://45.5.151.151:8000/play/a0nd/index.m3u8
-#EXTINF:-1,ciudad magazine
-http://45.5.151.151:8000/play/a0pz/index.m3u8
-#EXTINF:-1,el nueve HD
-http://45.5.151.151:8000/play/a0ll/index.m3u8
-#EXTINF:-1,el trece HD
-http://45.5.151.151:8000/play/a0cp/index.m3u8
+http://186.0.248.113:8000/play/a0bl/index.m3u8
