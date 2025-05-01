@@ -1,187 +1,22 @@
-#EXTM3U
-#EXTINF:-1,26 TV
-http://190.123.90.146:8000/play/a001/index.m3u8
-#EXTINF:-1,A&E
-http://190.123.90.146:8000/play/a00r/index.m3u8
-#EXTINF:-1,A24
-http://190.123.90.146:8000/play/a002/index.m3u8
-#EXTINF:-1,AM SPORT
-http://190.123.90.146:8000/play/a008/index.m3u8
-#EXTINF:-1,AMC
-http://190.123.90.146:8000/play/a00s/index.m3u8
-#EXTINF:-1,AMERICA HD
-http://190.123.90.146:8000/play/a00l/index.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://190.123.90.146:8000/play/a01q/index.m3u8
-#EXTINF:-1,AXN
-http://190.123.90.146:8000/play/a00t/index.m3u8
-#EXTINF:-1,CANAL 10
-http://190.123.90.146:8000/play/a01y/index.m3u8
-#EXTINF:-1,CANAL 2
-http://190.123.90.146:8000/play/a01z/index.m3u8
-#EXTINF:-1,CANAL DE LAS ESTRELLAS
-http://190.123.90.146:8000/play/a02o/index.m3u8
-#EXTINF:-1,CARTOON HD
-http://190.123.90.146:8000/play/a02x/index.m3u8
-#EXTINF:-1,CINE AR
-http://190.123.90.146:8000/play/a00v/index.m3u8
-#EXTINF:-1,CINECANAL HD
-http://190.123.90.146:8000/play/a00w/index.m3u8
-#EXTINF:-1,CINEMAX
-http://190.123.90.146:8000/play/a00x/index.m3u8
-#EXTINF:-1,CINEMAX HD
-http://190.123.90.146:8000/play/a01o/index.m3u8
-#EXTINF:-1,CNN
-http://190.123.90.146:8000/play/a004/index.m3u8
-#EXTINF:-1,COMEDY
-http://190.123.90.146:8000/play/a00z/index.m3u8
-#EXTINF:-1,CRONICA
-http://190.123.90.146:8000/play/a005/index.m3u8
-#EXTINF:-1,DEPORTV
-http://190.123.90.146:8000/play/a00a/index.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://190.123.90.146:8000/play/a02g/index.m3u8
-#EXTINF:-1,DISCOVERY KID
-http://190.123.90.146:8000/play/a029/index.m3u8
-#EXTINF:-1,DISNEY HD
-http://190.123.90.146:8000/play/a02a/index.m3u8
-#EXTINF:-1,DISNEY JR
-http://190.123.90.146:8000/play/a02b/index.m3u8
-#EXTINF:-1,DW
-http://190.123.90.146:8000/play/a01u/index.m3u8
-#EXTINF:-1,E! HD
-http://190.123.90.146:8000/play/a030/index.m3u8
-#EXTINF:-1,EL GOURMET
-http://190.123.90.146:8000/play/a02m/index.m3u8
-#EXTINF:-1,EL NUEVE HD
-http://190.123.90.146:8000/play/a00m/index.m3u8
-#EXTINF:-1,EL TRECE
-http://190.123.90.146:8000/play/a00n/index.m3u8
-#EXTINF:-1,ENCUENTRO
-http://190.123.90.146:8000/play/a00o/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://190.123.90.146:8000/play/a02z/index.m3u8
-#EXTINF:-1,ESPN 3
-http://190.123.90.146:8000/play/a00d/index.m3u8
-#EXTINF:-1,ESPN 4
-http://190.123.90.146:8000/play/a00e/index.m3u8
-#EXTINF:-1,ESPN HD
-http://190.123.90.146:8000/play/a00b/index.m3u8
-#EXTINF:-1,ESPN PREMIUM
-http://190.123.90.146:8000/play/a00f/index.m3u8
-#EXTINF:-1,EUROPA
-http://190.123.90.146:8000/play/a010/index.m3u8
-#EXTINF:-1,EWTN
-http://190.123.90.146:8000/play/a01x/index.m3u8
-#EXTINF:-1,FILM & ART
-http://190.123.90.146:8000/play/a038/index.m3u8
-#EXTINF:-1,FOX SPORT 
-http://190.123.90.146:8000/play/a00g/index.m3u8
-#EXTINF:-1,FOX SPORT 2
-http://190.123.90.146:8000/play/a00h/index.m3u8
-#EXTINF:-1,FOX SPORT 3
-http://190.123.90.146:8000/play/a00i/index.m3u8
-#EXTINF:-1,FX
-http://190.123.90.146:8000/play/a012/index.m3u8
-#EXTINF:-1,H&H
-http://190.123.90.146:8000/play/a02h/index.m3u8
-#EXTINF:-1,HBO
-http://190.123.90.146:8000/play/a022/index.m3u8
-#EXTINF:-1,HBO +
-http://190.123.90.146:8000/play/a01v/index.m3u8
-#EXTINF:-1,HBO 2
-http://190.123.90.146:8000/play/a01k/index.m3u8
-#EXTINF:-1,HBO FAMILY
-http://190.123.90.146:8000/play/a03d/index.m3u8
-#EXTINF:-1,HBO MUNDI
-http://190.123.90.146:8000/play/a027/index.m3u8
-#EXTINF:-1,HBO POP
-http://190.123.90.146:8000/play/a01j/index.m3u8
-#EXTINF:-1,HBO XTREM
-http://190.123.90.146:8000/play/a01i/index.m3u8
-#EXTINF:-1,HISTORY
-http://190.123.90.146:8000/play/a02n/index.m3u8
-#EXTINF:-1,HTV
-http://190.123.90.146:8000/play/a037/index.m3u8
-#EXTINF:-1,LA NACION +
-http://190.123.90.146:8000/play/a006/index.m3u8
-#EXTINF:-1,LIFE TIME
-http://190.123.90.146:8000/play/a013/index.m3u8
-#EXTINF:-1,MAGAZIN
-http://190.123.90.146:8000/play/a00y/index.m3u8
-#EXTINF:-1,METRO
-http://190.123.90.146:8000/play/a014/index.m3u8
-#EXTINF:-1,MTV
-http://190.123.90.146:8000/play/a02q/index.m3u8
-#EXTINF:-1,MTV 00
-http://190.123.90.146:8000/play/a02r/index.m3u8
-#EXTINF:-1,NICK
-http://190.123.90.146:8000/play/a02e/index.m3u8
-#EXTINF:-1,NICK JR
-http://190.123.90.146:8000/play/a02c/index.m3u8
-#EXTINF:-1,PAKAPAKA
-http://190.123.90.146:8000/play/a02f/index.m3u8
-#EXTINF:-1,PARAMOUNT
-http://190.123.90.146:8000/play/a015/index.m3u8
-#EXTINF:-1,PASIONES
-http://190.123.90.146:8000/play/a02t/index.m3u8
-#EXTINF:-1,QUIERO MUSICA
-http://190.123.90.146:8000/play/a02s/index.m3u8
-#EXTINF:-1,RURAL
-http://190.123.90.146:8000/play/a036/index.m3u8
-#EXTINF:-1,SCIENCIA
-http://190.123.90.146:8000/play/a02i/index.m3u8
-#EXTINF:-1,SONY HD
-http://190.123.90.146:8000/play/a016/index.m3u8
-#EXTINF:-1,SONY MOVIE
-http://190.123.90.146:8000/play/a017/index.m3u8
-#EXTINF:-1,SPACE HD
-http://190.123.90.146:8000/play/a031/index.m3u8
-#EXTINF:-1,STAR CHANEL
-http://190.123.90.146:8000/play/a019/index.m3u8
-#EXTINF:-1,STUDIO UNIVERSAL
-http://190.123.90.146:8000/play/a01a/index.m3u8
-#EXTINF:-1,TCM
-http://190.123.90.146:8000/play/a01b/index.m3u8
-#EXTINF:-1,TELEFE CORDOBA
-http://190.123.90.146:8000/play/a03c/index.m3u8
-#EXTINF:-1,TELEFE HD
-http://190.123.90.146:8000/play/a00p/index.m3u8
-#EXTINF:-1,TELEMUNDO
-http://190.123.90.146:8000/play/a02u/index.m3u8
-#EXTINF:-1,TELESUR
-http://190.123.90.146:8000/play/a01n/index.m3u8
-#EXTINF:-1,THEATHER
-http://190.123.90.146:8000/play/a02k/index.m3u8
-#EXTINF:-1,TL NOVELAS
-http://190.123.90.146:8000/play/a02v/index.m3u8
-#EXTINF:-1,TN HD
-http://190.123.90.146:8000/play/a032/index.m3u8
-#EXTINF:-1,TNT HD
-http://190.123.90.146:8000/play/a033/index.m3u8
-#EXTINF:-1,TNT NOVELAS
-http://190.123.90.146:8000/play/a02w/index.m3u8
-#EXTINF:-1,TNT SERIE
-http://190.123.90.146:8000/play/a034/index.m3u8
-#EXTINF:-1,TNT SPORT 
-http://190.123.90.146:8000/play/a00j/index.m3u8
-#EXTINF:-1,TURBO
-http://190.123.90.146:8000/play/a02j/index.m3u8
-#EXTINF:-1,TV PUBLICA HD
-http://190.123.90.146:8000/play/a00q/index.m3u8
-#EXTINF:-1,TYC SPORT
-http://190.123.90.146:8000/play/a00k/index.m3u8
-#EXTINF:-1,UNIFE
-http://190.123.90.146:8000/play/a003/index.m3u8
-#EXTINF:-1,UNIVERSAL
-http://190.123.90.146:8000/play/a01e/index.m3u8
-#EXTINF:-1,USA NETWORK
-http://190.123.90.146:8000/play/a01f/index.m3u8
-#EXTINF:-1,VOLVER
-http://190.123.90.146:8000/play/a035/index.m3u8
-#EXTINF:-1,WARNER
-http://190.123.90.146:8000/play/a01h/index.m3u8
-#EXTINF:-1,WORD
-http://190.123.90.146:8000/play/a02l/index.m3u8
-#EXTINF:-1,canal 12
-http://190.123.90.146:8000/play/a039/index.m3u8
+#EXTM3U  
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
