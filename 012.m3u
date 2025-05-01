@@ -1,31 +1,22 @@
-#EXTM3U
-#EXTINF:-1,26 TV
-http://186.0.248.113:8000/play/a0bp/index.m3u8
-#EXTINF:-1,A 24
-http://186.0.248.113:8000/play/a0bq/index.m3u8
-#EXTINF:-1,C5N
-http://186.0.248.113:8000/play/a0bn/index.m3u8
-#EXTINF:-1,CNN Esp
-http://186.0.248.113:8000/play/a0bf/index.m3u8
-#EXTINF:-1,Canal Rural
-http://186.0.248.113:8000/play/a0bi/index.m3u8
-#EXTINF:-1,Ciudad Magazine
-http://186.0.248.113:8000/play/a0br/index.m3u8
-#EXTINF:-1,Cronica TV
-http://186.0.248.113:8000/play/a0bo/index.m3u8
-#EXTINF:-1,DeporTV
-http://186.0.248.113:8000/play/a0be/index.m3u8
-#EXTINF:-1,Estrellas
-http://186.0.248.113:8000/play/a0bd/index.m3u8
-#EXTINF:-1,Film and Arts
-http://186.0.248.113:8000/play/a0bj/index.m3u8
-#EXTINF:-1,La Nacion HD
-http://186.0.248.113:8000/play/a0bm/index.m3u8
-#EXTINF:-1,Lifetime
-http://186.0.248.113:8000/play/a0bg/index.m3u8
-#EXTINF:-1,NET TV
-http://186.0.248.113:8000/play/a0bs/index.m3u8
-#EXTINF:-1,TLC
-http://186.0.248.113:8000/play/a0bh/index.m3u8
-#EXTINF:-1,TN
-http://186.0.248.113:8000/play/a0bl/index.m3u8
+#EXTM3U  
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+https://raw.githubusercontent.com/mortal251/logos/main/Video_expiro_lista.mp4
